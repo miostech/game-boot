@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import subprocess
 
 
-def read_file_ppx(index_to_change=50, new_password="Test123"):
+def read_file_ppx(index_to_change=1, new_password="Test123"):
     with open("1.ppx", "r") as r:
         data = r.read()
         with open("1.xml", "w") as w:

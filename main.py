@@ -3,6 +3,8 @@
 # configuration and interacts with other modules for reading configuration files and logs.
 
 import argparse  # Import the argparse module for command-line argument parsing
+import winreg
+
 import read_file_cfg  # Import a module for reading configuration files
 import read_logs_txt  # Import a module for reading log files
 import read_ppx  # Import a module for reading ppx files
@@ -16,6 +18,7 @@ def run_game():
 
 
 if __name__ == '__main__':
+
     # Create an argument parser for processing command-line arguments
     parser = argparse.ArgumentParser(
         prog='game_boot',  # Program name displayed in help messages
