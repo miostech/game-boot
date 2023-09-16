@@ -1,0 +1,37 @@
+from bs4 import BeautifulSoup
+import subprocess
+
+
+def read_file_ppx(index_to_change=50, new_password="Test123"):
+    with open("1.ppx", "r") as r:
+        data = r.read()
+        with open("1.xml", "w") as w:
+            w.write(data)
+            w.close()
+            with open("1.xml", "r") as r_1:
+                data_to_read = r_1.read()
+                bs_data = BeautifulSoup(data_to_read, "xml")
+                proxy_list_tag = bs_data.findAll("Proxy")
+                proxy_tag = None
+                for label in proxy_list_tag:
+                    label_index = label.find("Label")
+                    if label_index.string == str(index_to_change):
+                        proxy_tag = label
+                        break
+                auth_tag = proxy_tag.find("Authentication")
+                password_tag = auth_tag.find("Password")
+                password_tag.string = new_password
+                print(password_tag)
+                with open("1.xml", "w") as w_2:
+                    w_2.write(str(bs_data))
+                    w_2.close()
+                    with open("1.xml", "r") as r_2:
+                        data_to_ppx = r_2.read()
+                        with open("1.ppx", "w") as w_3:
+                            w_3.write(data_to_ppx)
+                            w_3.close()
+                            print("done")
+                            r_2.close()
+                            r_1.close()
+                            r.close()
+                            #subprocess.call("", shell=True)

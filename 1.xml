@@ -1,0 +1,2216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProxifierProfile platform="Windows" product_id="0" product_minver="310" version="101">
+<Options>
+<Resolve>
+<AutoModeDetection enabled="true"/>
+<ViaProxy enabled="false">
+<TryLocalDnsFirst enabled="false"/>
+</ViaProxy>
+<ExclusionList>%ComputerName%; localhost; *.local</ExclusionList>
+<DnsUdpMode>0</DnsUdpMode>
+</Resolve>
+<Encryption mode="disabled"/>
+<HttpProxiesSupport enabled="false"/>
+<HandleDirectConnections enabled="false"/>
+<ConnectionLoopDetection enabled="true"/>
+<ProcessServices enabled="false"/>
+<ProcessOtherUsers enabled="false"/>
+</Options>
+<ProxyList>
+<Proxy id="100" type="HTTPS">
+<Label>1</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>Test123</Password>
+</Authentication>
+</Proxy>
+<Proxy id="101" type="HTTPS">
+<Label>2</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>Test123</Password>
+</Authentication>
+</Proxy>
+<Proxy id="102" type="HTTPS">
+<Label>3</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-it_session-xvh4hc6i</Password>
+</Authentication>
+</Proxy>
+<Proxy id="103" type="HTTPS">
+<Label>4</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-gb_session-h3dmp475</Password>
+</Authentication>
+</Proxy>
+<Proxy id="104" type="HTTPS">
+<Label>5</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-gb_session-06n1rhm6</Password>
+</Authentication>
+</Proxy>
+<Proxy id="105" type="HTTPS">
+<Label>6</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-es_session-ja57kmhu</Password>
+</Authentication>
+</Proxy>
+<Proxy id="106" type="HTTPS">
+<Label>7</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-gb_session-fh3it1io</Password>
+</Authentication>
+</Proxy>
+<Proxy id="107" type="HTTPS">
+<Label>8</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-ro_session-3wj5nyo6</Password>
+</Authentication>
+</Proxy>
+<Proxy id="108" type="HTTPS">
+<Label>9</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-fr_session-o3qnjd2c</Password>
+</Authentication>
+</Proxy>
+<Proxy id="109" type="HTTPS">
+<Label>10</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-es_session-32nocyi6</Password>
+</Authentication>
+</Proxy>
+<Proxy id="110" type="HTTPS">
+<Label>11</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-it_session-zt43uvgj</Password>
+</Authentication>
+</Proxy>
+<Proxy id="111" type="HTTPS">
+<Label>12</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-ro_session-2ditjz39</Password>
+</Authentication>
+</Proxy>
+<Proxy id="112" type="HTTPS">
+<Label>13</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-es_session-e1pw2x7r</Password>
+</Authentication>
+</Proxy>
+<Proxy id="113" type="HTTPS">
+<Label>14</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-de_session-6iyod0ia</Password>
+</Authentication>
+</Proxy>
+<Proxy id="114" type="HTTPS">
+<Label>15</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-fr_session-zrdy9g3o</Password>
+</Authentication>
+</Proxy>
+<Proxy id="115" type="HTTPS">
+<Label>16</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-es_session-z9cqwlqq</Password>
+</Authentication>
+</Proxy>
+<Proxy id="116" type="HTTPS">
+<Label>17</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-it_session-3q6ua84m</Password>
+</Authentication>
+</Proxy>
+<Proxy id="117" type="HTTPS">
+<Label>18</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-fr_session-ubl8twz8</Password>
+</Authentication>
+</Proxy>
+<Proxy id="118" type="HTTPS">
+<Label>19</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-es_session-txfqe4zg</Password>
+</Authentication>
+</Proxy>
+<Proxy id="119" type="HTTPS">
+<Label>20</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-es_session-mg85085h</Password>
+</Authentication>
+</Proxy>
+<Proxy id="120" type="HTTPS">
+<Label>21</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-fr_session-2oyeh4bo</Password>
+</Authentication>
+</Proxy>
+<Proxy id="121" type="HTTPS">
+<Label>22</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-gb_session-nugqpky3</Password>
+</Authentication>
+</Proxy>
+<Proxy id="122" type="HTTPS">
+<Label>23</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-ro_session-s7e7oz5l</Password>
+</Authentication>
+</Proxy>
+<Proxy id="123" type="HTTPS">
+<Label>24</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-it_session-22u1xute</Password>
+</Authentication>
+</Proxy>
+<Proxy id="124" type="HTTPS">
+<Label>25</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-fr_session-q81g6l4n</Password>
+</Authentication>
+</Proxy>
+<Proxy id="125" type="HTTPS">
+<Label>26</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-gb_session-bgbs0oti</Password>
+</Authentication>
+</Proxy>
+<Proxy id="126" type="HTTPS">
+<Label>27</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-es_session-5xmtye05</Password>
+</Authentication>
+</Proxy>
+<Proxy id="127" type="HTTPS">
+<Label>28</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-ro_session-0m25r6km</Password>
+</Authentication>
+</Proxy>
+<Proxy id="128" type="HTTPS">
+<Label>29</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-es_session-c3lcu91c</Password>
+</Authentication>
+</Proxy>
+<Proxy id="129" type="HTTPS">
+<Label>30</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-ro_session-2a2vndjg</Password>
+</Authentication>
+</Proxy>
+<Proxy id="130" type="HTTPS">
+<Label>1.1</Label>
+<Address>geo.iproyal.com</Address>
+<Port>12321</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>iproyal1533</Username>
+<Password>KrsRqdQV_region-europe_session-u43qkhyv_lifetime-20s_streaming-1_skipispstatic-1</Password>
+</Authentication>
+</Proxy>
+<Proxy id="131" type="HTTPS">
+<Label>2.1</Label>
+<Address>91.246.194.239</Address>
+<Port>6752</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="132" type="HTTPS">
+<Label>3.1</Label>
+<Address>194.39.32.159</Address>
+<Port>6456</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="133" type="HTTPS">
+<Label>4.1</Label>
+<Address>161.123.65.212</Address>
+<Port>6921</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="134" type="HTTPS">
+<Label>5.1</Label>
+<Address>64.137.10.99</Address>
+<Port>5749</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="135" type="HTTPS">
+<Label>6.1</Label>
+<Address>107.181.152.65</Address>
+<Port>5102</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="136" type="HTTPS">
+<Label>7.1</Label>
+<Address>64.43.91.249</Address>
+<Port>7020</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="137" type="HTTPS">
+<Label>8.1</Label>
+<Address>45.153.22.161</Address>
+<Port>6101</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="138" type="HTTPS">
+<Label>9.1</Label>
+<Address>104.239.5.38</Address>
+<Port>6692</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="139" type="HTTPS">
+<Label>10.1</Label>
+<Address>104.239.39.66</Address>
+<Port>5995</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="140" type="HTTPS">
+<Label>11.1</Label>
+<Address>45.8.134.18</Address>
+<Port>7034</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="141" type="HTTPS">
+<Label>12.1</Label>
+<Address>156.238.7.178</Address>
+<Port>6190</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="142" type="HTTPS">
+<Label>13.1</Label>
+<Address>64.43.91.156</Address>
+<Port>6927</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="143" type="HTTPS">
+<Label>14.1</Label>
+<Address>107.181.130.23</Address>
+<Port>5644</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="144" type="HTTPS">
+<Label>15.1</Label>
+<Address>198.105.108.68</Address>
+<Port>6090</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="145" type="HTTPS">
+<Label>16.1</Label>
+<Address>194.39.33.185</Address>
+<Port>5894</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="146" type="HTTPS">
+<Label>17.1</Label>
+<Address>104.239.108.83</Address>
+<Port>6318</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="147" type="HTTPS">
+<Label>18.1</Label>
+<Address>154.85.124.78</Address>
+<Port>5939</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="148" type="HTTPS">
+<Label>19.1</Label>
+<Address>104.143.246.40</Address>
+<Port>5995</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="149" type="HTTPS">
+<Label>20.1</Label>
+<Address>104.143.224.3</Address>
+<Port>5864</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="150" type="HTTPS">
+<Label>21.1</Label>
+<Address>64.137.94.2</Address>
+<Port>6225</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="151" type="HTTPS">
+<Label>22.1</Label>
+<Address>156.238.9.211</Address>
+<Port>7102</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="152" type="HTTPS">
+<Label>23.1</Label>
+<Address>194.39.34.36</Address>
+<Port>6048</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="153" type="HTTPS">
+<Label>24.1</Label>
+<Address>198.105.108.239</Address>
+<Port>6261</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="154" type="HTTPS">
+<Label>25.1</Label>
+<Address>154.16.243.30</Address>
+<Port>6174</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="155" type="HTTPS">
+<Label>26.1</Label>
+<Address>107.181.154.109</Address>
+<Port>5787</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="156" type="HTTPS">
+<Label>27.1</Label>
+<Address>45.8.203.101</Address>
+<Port>8215</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="157" type="HTTPS">
+<Label>28.1</Label>
+<Address>161.123.65.31</Address>
+<Port>6740</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="158" type="HTTPS">
+<Label>29.1</Label>
+<Address>91.246.193.116</Address>
+<Port>6373</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="159" type="HTTPS">
+<Label>30.1</Label>
+<Address>154.16.243.243</Address>
+<Port>6387</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="173" type="HTTPS">
+<Label>31</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-fr_session-k3bpxuru</Password>
+</Authentication>
+</Proxy>
+<Proxy id="174" type="HTTPS">
+<Label>32</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-es_session-bged81ad</Password>
+</Authentication>
+</Proxy>
+<Proxy id="175" type="HTTPS">
+<Label>33</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-es_session-ergdqwjg</Password>
+</Authentication>
+</Proxy>
+<Proxy id="176" type="HTTPS">
+<Label>34</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-ro_session-hz50pmuq</Password>
+</Authentication>
+</Proxy>
+<Proxy id="177" type="HTTPS">
+<Label>35</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-fr_session-6ltryy7o</Password>
+</Authentication>
+</Proxy>
+<Proxy id="178" type="HTTPS">
+<Label>36</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-es_session-vk95gi2i</Password>
+</Authentication>
+</Proxy>
+<Proxy id="179" type="HTTPS">
+<Label>37</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-it_session-0rhvzcrz</Password>
+</Authentication>
+</Proxy>
+<Proxy id="180" type="HTTPS">
+<Label>38</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-ro_session-tp13od57</Password>
+</Authentication>
+</Proxy>
+<Proxy id="181" type="HTTPS">
+<Label>39</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-fr_session-p4wgduaa</Password>
+</Authentication>
+</Proxy>
+<Proxy id="182" type="HTTPS">
+<Label>40</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-de_session-n9q5x5h6</Password>
+</Authentication>
+</Proxy>
+<Proxy id="183" type="HTTPS">
+<Label>41</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-fr_session-1y5h119m</Password>
+</Authentication>
+</Proxy>
+<Proxy id="184" type="HTTPS">
+<Label>42</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-it_session-ih58fwfm</Password>
+</Authentication>
+</Proxy>
+<Proxy id="185" type="HTTPS">
+<Label>43</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-gb_session-j85zw5un</Password>
+</Authentication>
+</Proxy>
+<Proxy id="186" type="HTTPS">
+<Label>44</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-it_session-gbn21wpi</Password>
+</Authentication>
+</Proxy>
+<Proxy id="187" type="HTTPS">
+<Label>45</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-it_session-8tmorm3l</Password>
+</Authentication>
+</Proxy>
+<Proxy id="188" type="HTTPS">
+<Label>46</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-it_session-gyhsfn3d</Password>
+</Authentication>
+</Proxy>
+<Proxy id="189" type="HTTPS">
+<Label>47</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-gb_session-eky4emfe</Password>
+</Authentication>
+</Proxy>
+<Proxy id="190" type="HTTPS">
+<Label>48</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-es_session-w9arqkdn</Password>
+</Authentication>
+</Proxy>
+<Proxy id="191" type="HTTPS">
+<Label>49</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-it_session-ob6t8rij</Password>
+</Authentication>
+</Proxy>
+<Proxy id="192" type="HTTPS">
+<Label>50</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>Test123</Password>
+</Authentication>
+</Proxy>
+<Proxy id="193" type="HTTPS">
+<Label>51</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-gb_session-yklq5tvc</Password>
+</Authentication>
+</Proxy>
+<Proxy id="194" type="HTTPS">
+<Label>52</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-gb_session-cyvaticc</Password>
+</Authentication>
+</Proxy>
+<Proxy id="195" type="HTTPS">
+<Label>53</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-gb_session-0l5mkjh2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="196" type="HTTPS">
+<Label>54</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-es_session-g0g444yp</Password>
+</Authentication>
+</Proxy>
+<Proxy id="197" type="HTTPS">
+<Label>55</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-it_session-0h4jyhmz</Password>
+</Authentication>
+</Proxy>
+<Proxy id="198" type="HTTPS">
+<Label>56</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-gb_session-rlbv5koa</Password>
+</Authentication>
+</Proxy>
+<Proxy id="199" type="HTTPS">
+<Label>57</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-de_session-0syg1uoy</Password>
+</Authentication>
+</Proxy>
+<Proxy id="200" type="HTTPS">
+<Label>58</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-ro_session-euzi8x78</Password>
+</Authentication>
+</Proxy>
+<Proxy id="201" type="HTTPS">
+<Label>59</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>MLpizVmzTI_country-it_session-ck1dci0n</Password>
+</Authentication>
+</Proxy>
+<Proxy id="202" type="HTTPS">
+<Label>60</Label>
+<Address>ultra.marsproxies.com</Address>
+<Port>44443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG</Username>
+<Password>zlj8lg4a</Password>
+</Authentication>
+</Proxy>
+<Proxy id="203" type="HTTPS">
+<Label>31.1</Label>
+<Address>104.239.7.239</Address>
+<Port>6643</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="204" type="HTTPS">
+<Label>32.1</Label>
+<Address>193.27.19.67</Address>
+<Port>7153</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="205" type="HTTPS">
+<Label>33.1</Label>
+<Address>194.33.29.150</Address>
+<Port>7734</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="206" type="HTTPS">
+<Label>34.1</Label>
+<Address>193.27.10.184</Address>
+<Port>6269</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="207" type="HTTPS">
+<Label>35.1</Label>
+<Address>192.153.171.164</Address>
+<Port>6237</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="208" type="HTTPS">
+<Label>36.1</Label>
+<Address>154.95.0.188</Address>
+<Port>6441</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="209" type="HTTPS">
+<Label>37.1</Label>
+<Address>45.9.122.254</Address>
+<Port>8335</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="210" type="HTTPS">
+<Label>38.1</Label>
+<Address>64.137.48.197</Address>
+<Port>6404</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="211" type="HTTPS">
+<Label>39.1</Label>
+<Address>216.173.72.36</Address>
+<Port>6655</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="212" type="HTTPS">
+<Label>40.1</Label>
+<Address>23.229.126.65</Address>
+<Port>7594</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="213" type="HTTPS">
+<Label>41.1</Label>
+<Address>23.236.222.53</Address>
+<Port>7084</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="214" type="HTTPS">
+<Label>42.1</Label>
+<Address>216.173.75.214</Address>
+<Port>6515</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="215" type="HTTPS">
+<Label>43.1</Label>
+<Address>45.154.228.138</Address>
+<Port>8162</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="216" type="HTTPS">
+<Label>44.1</Label>
+<Address>154.85.100.242</Address>
+<Port>5283</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="217" type="HTTPS">
+<Label>45.1</Label>
+<Address>103.75.229.131</Address>
+<Port>5879</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="218" type="HTTPS">
+<Label>46.1</Label>
+<Address>45.43.185.12</Address>
+<Port>6018</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="219" type="HTTPS">
+<Label>47.1</Label>
+<Address>45.43.191.226</Address>
+<Port>6187</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="220" type="HTTPS">
+<Label>48.1</Label>
+<Address>103.75.229.88</Address>
+<Port>5836</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="221" type="HTTPS">
+<Label>49.1</Label>
+<Address>216.173.98.241</Address>
+<Port>6243</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="222" type="HTTPS">
+<Label>50.1</Label>
+<Address>154.85.100.136</Address>
+<Port>5177</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="223" type="HTTPS">
+<Label>51.1</Label>
+<Address>45.8.134.18</Address>
+<Port>7034</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="224" type="HTTPS">
+<Label>52.1</Label>
+<Address>104.143.246.40</Address>
+<Port>5995</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="225" type="HTTPS">
+<Label>53.1</Label>
+<Address>216.173.98.103</Address>
+<Port>6105</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="226" type="HTTPS">
+<Label>54.1</Label>
+<Address>185.102.51.104</Address>
+<Port>7443</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="227" type="HTTPS">
+<Label>55.1</Label>
+<Address>64.137.10.99</Address>
+<Port>5749</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="228" type="HTTPS">
+<Label>56.1</Label>
+<Address>216.173.99.30</Address>
+<Port>6372</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="229" type="HTTPS">
+<Label>57.1</Label>
+<Address>64.137.94.121</Address>
+<Port>6344</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="230" type="HTTPS">
+<Label>58.1</Label>
+<Address>194.39.34.36</Address>
+<Port>6048</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="231" type="HTTPS">
+<Label>59.1</Label>
+<Address>156.238.10.236</Address>
+<Port>5318</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+<Proxy id="232" type="HTTPS">
+<Label>60.1</Label>
+<Address>64.137.94.133</Address>
+<Port>6356</Port>
+<Options>48</Options>
+<Authentication enabled="true">
+<Username>mr14562DNDG2</Username>
+<Password>mr14562DNDG2</Password>
+</Authentication>
+</Proxy>
+</ProxyList>
+<ChainList/>
+<RuleList>
+<Rule enabled="true">
+<Name>Localhost</Name>
+<Targets>localhost; 127.0.0.1; %ComputerName%; ::1</Targets>
+<Action type="Direct"/>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of SL</Name>
+<Applications>SL.exe;metin2client_*.exe</Applications>
+<Targets>sagebot.net</Targets>
+<Action type="Direct"/>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of SL</Name>
+<Applications>SL.exe</Applications>
+<Targets>gameforge.com;spark.gameforge.com;pixelzirkus.gameforge.com</Targets>
+<Action type="Proxy">130</Action>
+</Rule>
+<Rule enabled="true">
+<Name>gf</Name>
+<Applications>gfclient.exe;metin2client.exe;</Applications>
+<Action type="Direct"/>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of gf</Name>
+<Applications>metin2client_*.exe;metin2client.exe;</Applications>
+<Targets>tr.metin2.gameforge.com;cz.metin2.gameforge.com;pl.metin2.gameforge.com;it.metin2.gameforge.com;en.metin2.gameforge.com;de.metin2.gameforge.com;pt.metin2.gameforge.com;es.metin2.gameforge.com;ro.metin2.gameforge.com;gf1.geo.gfsrv.net;gf2.geo.gfsrv.net;gf3.geo.gfsrv.net</Targets>
+<Action type="Direct"/>
+</Rule>
+<Rule enabled="true">
+<Name>1-res</Name>
+<Applications>gfclient_1.exe;</Applications>
+<Action type="Proxy">100</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 1-res</Name>
+<Applications>metin2client_1.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">100</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 1-res</Name>
+<Applications>metin2client_1.exe;</Applications>
+<Action type="Proxy">100</Action>
+</Rule>
+<Rule enabled="true">
+<Name>2-res</Name>
+<Applications>gfclient_2.exe;</Applications>
+<Action type="Proxy">101</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 2-res</Name>
+<Applications>metin2client_2.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">101</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 2-res</Name>
+<Applications>metin2client_2.exe;</Applications>
+<Action type="Proxy">101</Action>
+</Rule>
+<Rule enabled="true">
+<Name>3-res</Name>
+<Applications>gfclient_3.exe;</Applications>
+<Action type="Proxy">102</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 3-res</Name>
+<Applications>metin2client_3.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">102</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 3-res</Name>
+<Applications>metin2client_3.exe;</Applications>
+<Action type="Proxy">102</Action>
+</Rule>
+<Rule enabled="true">
+<Name>4-res</Name>
+<Applications>gfclient_4.exe;</Applications>
+<Action type="Proxy">103</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 4-res</Name>
+<Applications>metin2client_4.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">103</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 4-res</Name>
+<Applications>metin2client_4.exe;</Applications>
+<Action type="Direct"/>
+</Rule>
+<Rule enabled="true">
+<Name>5-res</Name>
+<Applications>gfclient_5.exe;</Applications>
+<Action type="Proxy">104</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 5-res</Name>
+<Applications>metin2client_5.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">104</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 5-res</Name>
+<Applications>metin2client_5.exe;</Applications>
+<Action type="Proxy">104</Action>
+</Rule>
+<Rule enabled="true">
+<Name>6-res</Name>
+<Applications>gfclient_6.exe;</Applications>
+<Action type="Proxy">105</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 6-res</Name>
+<Applications>metin2client_6.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">105</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 6-res</Name>
+<Applications>metin2client_6.exe;</Applications>
+<Action type="Proxy">105</Action>
+</Rule>
+<Rule enabled="true">
+<Name>7-res</Name>
+<Applications>gfclient_7.exe;</Applications>
+<Action type="Proxy">106</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 7-res</Name>
+<Applications>metin2client_7.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">106</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 7-res</Name>
+<Applications>metin2client_7.exe;</Applications>
+<Action type="Proxy">106</Action>
+</Rule>
+<Rule enabled="true">
+<Name>8-res</Name>
+<Applications>gfclient_8.exe;</Applications>
+<Action type="Proxy">107</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 8-res</Name>
+<Applications>metin2client_8.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">107</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 8-res</Name>
+<Applications>metin2client_8.exe;</Applications>
+<Action type="Proxy">107</Action>
+</Rule>
+<Rule enabled="true">
+<Name>9-res</Name>
+<Applications>gfclient_9.exe;</Applications>
+<Action type="Proxy">108</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 9-res</Name>
+<Applications>metin2client_9.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">108</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 9-res</Name>
+<Applications>metin2client_9.exe;</Applications>
+<Action type="Proxy">108</Action>
+</Rule>
+<Rule enabled="true">
+<Name>10-res</Name>
+<Applications>gfclient_10.exe;</Applications>
+<Action type="Proxy">109</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 10-res</Name>
+<Applications>metin2client_10.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">109</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 10-res</Name>
+<Applications>metin2client_10.exe;</Applications>
+<Action type="Proxy">109</Action>
+</Rule>
+<Rule enabled="true">
+<Name>11-res</Name>
+<Applications>gfclient_11.exe;</Applications>
+<Action type="Proxy">110</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 11-res</Name>
+<Applications>metin2client_11.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">110</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 11-res</Name>
+<Applications>metin2client_11.exe;</Applications>
+<Action type="Proxy">110</Action>
+</Rule>
+<Rule enabled="true">
+<Name>12-res</Name>
+<Applications>gfclient_12.exe;</Applications>
+<Action type="Proxy">111</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 12-res</Name>
+<Applications>metin2client_12.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">111</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 12-res</Name>
+<Applications>metin2client_12.exe;</Applications>
+<Action type="Proxy">111</Action>
+</Rule>
+<Rule enabled="true">
+<Name>13-res</Name>
+<Applications>gfclient_13.exe;</Applications>
+<Action type="Proxy">112</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 13-res</Name>
+<Applications>metin2client_13.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">112</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 13-res</Name>
+<Applications>metin2client_13.exe;</Applications>
+<Action type="Proxy">112</Action>
+</Rule>
+<Rule enabled="true">
+<Name>14-res</Name>
+<Applications>gfclient_14.exe;</Applications>
+<Action type="Proxy">113</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 14-res</Name>
+<Applications>metin2client_14.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">113</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 14-res</Name>
+<Applications>metin2client_14.exe;</Applications>
+<Action type="Proxy">113</Action>
+</Rule>
+<Rule enabled="true">
+<Name>15-res</Name>
+<Applications>gfclient_15.exe;</Applications>
+<Action type="Proxy">114</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 15-res</Name>
+<Applications>metin2client_15.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">114</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 15-res</Name>
+<Applications>metin2client_15.exe;</Applications>
+<Action type="Proxy">114</Action>
+</Rule>
+<Rule enabled="true">
+<Name>16-res</Name>
+<Applications>gfclient_16.exe;</Applications>
+<Action type="Proxy">115</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 16-res</Name>
+<Applications>metin2client_16.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">115</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 16-res</Name>
+<Applications>metin2client_16.exe;</Applications>
+<Action type="Proxy">115</Action>
+</Rule>
+<Rule enabled="true">
+<Name>17-res</Name>
+<Applications>gfclient_17.exe;</Applications>
+<Action type="Proxy">116</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 17-res</Name>
+<Applications>metin2client_17.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">116</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 17-res</Name>
+<Applications>metin2client_17.exe;</Applications>
+<Action type="Proxy">116</Action>
+</Rule>
+<Rule enabled="true">
+<Name>18-res</Name>
+<Applications>gfclient_18.exe;</Applications>
+<Action type="Proxy">117</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 18-res</Name>
+<Applications>metin2client_18.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">117</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 18-res</Name>
+<Applications>metin2client_18.exe;</Applications>
+<Action type="Proxy">117</Action>
+</Rule>
+<Rule enabled="true">
+<Name>19-res</Name>
+<Applications>gfclient_19.exe;</Applications>
+<Action type="Proxy">118</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 19-res</Name>
+<Applications>metin2client_19.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">118</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 19-res</Name>
+<Applications>metin2client_19.exe;</Applications>
+<Action type="Proxy">118</Action>
+</Rule>
+<Rule enabled="true">
+<Name>20-res</Name>
+<Applications>gfclient_20.exe;</Applications>
+<Action type="Proxy">119</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 20-res</Name>
+<Applications>metin2client_20.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">119</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 20-res</Name>
+<Applications>metin2client_20.exe;</Applications>
+<Action type="Proxy">119</Action>
+</Rule>
+<Rule enabled="true">
+<Name>21-res</Name>
+<Applications>gfclient_21.exe;</Applications>
+<Action type="Proxy">120</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 21-res</Name>
+<Applications>metin2client_21.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">120</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 21-res</Name>
+<Applications>metin2client_21.exe;</Applications>
+<Action type="Proxy">120</Action>
+</Rule>
+<Rule enabled="true">
+<Name>22-res</Name>
+<Applications>gfclient_22.exe;</Applications>
+<Action type="Proxy">121</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 22-res</Name>
+<Applications>metin2client_22.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">121</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 22-res</Name>
+<Applications>metin2client_22.exe;</Applications>
+<Action type="Proxy">121</Action>
+</Rule>
+<Rule enabled="true">
+<Name>23-res</Name>
+<Applications>gfclient_23.exe;</Applications>
+<Action type="Proxy">122</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 23-res</Name>
+<Applications>metin2client_23.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">122</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 23-res</Name>
+<Applications>metin2client_23.exe;</Applications>
+<Action type="Proxy">122</Action>
+</Rule>
+<Rule enabled="true">
+<Name>24-res</Name>
+<Applications>gfclient_24.exe;</Applications>
+<Action type="Proxy">123</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 24-res</Name>
+<Applications>metin2client_24.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">123</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 24-res</Name>
+<Applications>metin2client_24.exe;</Applications>
+<Action type="Proxy">123</Action>
+</Rule>
+<Rule enabled="true">
+<Name>25-res</Name>
+<Applications>gfclient_25.exe;</Applications>
+<Action type="Proxy">124</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 25-res</Name>
+<Applications>metin2client_25.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">124</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 25-res</Name>
+<Applications>metin2client_25.exe;</Applications>
+<Action type="Proxy">124</Action>
+</Rule>
+<Rule enabled="true">
+<Name>26-res</Name>
+<Applications>gfclient_26.exe;</Applications>
+<Action type="Proxy">125</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 26-res</Name>
+<Applications>metin2client_26.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">125</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 26-res</Name>
+<Applications>metin2client_26.exe;</Applications>
+<Action type="Proxy">125</Action>
+</Rule>
+<Rule enabled="true">
+<Name>27-res</Name>
+<Applications>gfclient_27.exe;</Applications>
+<Action type="Proxy">126</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 27-res</Name>
+<Applications>metin2client_27.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">126</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 27-res</Name>
+<Applications>metin2client_27.exe;</Applications>
+<Action type="Proxy">126</Action>
+</Rule>
+<Rule enabled="true">
+<Name>28-res</Name>
+<Applications>gfclient_28.exe;</Applications>
+<Action type="Proxy">127</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 28-res</Name>
+<Applications>metin2client_28.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.comAny</Targets>
+<Action type="Proxy">127</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 28-res</Name>
+<Applications>metin2client_28.exe;</Applications>
+<Action type="Proxy">127</Action>
+</Rule>
+<Rule enabled="true">
+<Name>29-res</Name>
+<Applications>gfclient_29.exe;</Applications>
+<Action type="Proxy">128</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 29-res</Name>
+<Applications>metin2client_29.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">128</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 29-res</Name>
+<Applications>metin2client_29.exe;</Applications>
+<Action type="Proxy">128</Action>
+</Rule>
+<Rule enabled="true">
+<Name>30-res</Name>
+<Applications>gfclient_30.exe;</Applications>
+<Action type="Proxy">129</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 30-res</Name>
+<Applications>metin2client_30.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">129</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 30-res</Name>
+<Applications>metin2client_30.exe;</Applications>
+<Action type="Proxy">129</Action>
+</Rule>
+<Rule enabled="true">
+<Name>31-res</Name>
+<Applications>gfclient_31.exe;</Applications>
+<Action type="Proxy">173</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 31-res</Name>
+<Applications>metin2client_31.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">173</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 31-res</Name>
+<Applications>metin2client_31.exe;</Applications>
+<Action type="Proxy">173</Action>
+</Rule>
+<Rule enabled="true">
+<Name>32-res</Name>
+<Applications>gfclient_32.exe;</Applications>
+<Action type="Proxy">174</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 32-res</Name>
+<Applications>metin2client_32.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">174</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 32-res</Name>
+<Applications>metin2client_32.exe;</Applications>
+<Action type="Proxy">174</Action>
+</Rule>
+<Rule enabled="true">
+<Name>33-res</Name>
+<Applications>gfclient_33.exe;</Applications>
+<Action type="Proxy">175</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 33-res</Name>
+<Applications>metin2client_33.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">175</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 33-res</Name>
+<Applications>metin2client_33.exe;</Applications>
+<Action type="Proxy">175</Action>
+</Rule>
+<Rule enabled="true">
+<Name>34-res</Name>
+<Applications>gfclient_34.exe;</Applications>
+<Action type="Proxy">176</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 34-res</Name>
+<Applications>metin2client_34.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">176</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 34-res</Name>
+<Applications>metin2client_34.exe;</Applications>
+<Action type="Proxy">176</Action>
+</Rule>
+<Rule enabled="true">
+<Name>35-res</Name>
+<Applications>gfclient_35.exe;</Applications>
+<Action type="Proxy">177</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 35-res</Name>
+<Applications>metin2client_35.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">177</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 35-res</Name>
+<Applications>metin2client_35.exe;</Applications>
+<Action type="Proxy">177</Action>
+</Rule>
+<Rule enabled="true">
+<Name>36-res</Name>
+<Applications>gfclient_36.exe;</Applications>
+<Action type="Proxy">178</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 36-res</Name>
+<Applications>metin2client_36.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">178</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 36-res</Name>
+<Applications>metin2client_36.exe;</Applications>
+<Action type="Proxy">178</Action>
+</Rule>
+<Rule enabled="true">
+<Name>37-res</Name>
+<Applications>gfclient_37.exe;</Applications>
+<Action type="Proxy">179</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 37-res</Name>
+<Applications>metin2client_37.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">179</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 37-res</Name>
+<Applications>metin2client_37.exe;</Applications>
+<Action type="Proxy">179</Action>
+</Rule>
+<Rule enabled="true">
+<Name>38-res</Name>
+<Applications>gfclient_38.exe;</Applications>
+<Action type="Proxy">180</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 38-res</Name>
+<Applications>metin2client_38.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">180</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 38-res</Name>
+<Applications>metin2client_38.exe;</Applications>
+<Action type="Proxy">180</Action>
+</Rule>
+<Rule enabled="true">
+<Name>39-res</Name>
+<Applications>gfclient_39.exe;</Applications>
+<Action type="Proxy">181</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 38-res</Name>
+<Applications>metin2client_39.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">181</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 38-res</Name>
+<Applications>metin2client_39.exe;</Applications>
+<Action type="Proxy">181</Action>
+</Rule>
+<Rule enabled="true">
+<Name>40-res</Name>
+<Applications>gfclient_40.exe;</Applications>
+<Action type="Proxy">182</Action>
+</Rule>
+<Rule enabled="true">
+<Name>40-res</Name>
+<Applications>metin2client_40.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">182</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 40-res</Name>
+<Applications>metin2client_40.exe;</Applications>
+<Action type="Proxy">182</Action>
+</Rule>
+<Rule enabled="true">
+<Name>41-res</Name>
+<Applications>gfclient_41.exe;</Applications>
+<Action type="Proxy">183</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 41-res</Name>
+<Applications>metin2client_41.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">183</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 41-res</Name>
+<Applications>metin2client_41.exe;</Applications>
+<Action type="Proxy">183</Action>
+</Rule>
+<Rule enabled="true">
+<Name>42-res</Name>
+<Applications>gfclient_42.exe;</Applications>
+<Action type="Proxy">184</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 42-res</Name>
+<Applications>metin2client_42.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">184</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 42-res</Name>
+<Applications>metin2client_42.exe;</Applications>
+<Action type="Proxy">184</Action>
+</Rule>
+<Rule enabled="true">
+<Name>43-res</Name>
+<Applications>gfclient_43.exe;</Applications>
+<Action type="Proxy">185</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 43-res</Name>
+<Applications>metin2client_43.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">185</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 43-res</Name>
+<Applications>metin2client_43.exe;</Applications>
+<Action type="Proxy">185</Action>
+</Rule>
+<Rule enabled="true">
+<Name>44-res</Name>
+<Applications>gfclient_44.exe;</Applications>
+<Action type="Proxy">186</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 44-res</Name>
+<Applications>metin2client_44.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">186</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 44-res</Name>
+<Applications>metin2client_44.exe;</Applications>
+<Action type="Proxy">186</Action>
+</Rule>
+<Rule enabled="true">
+<Name>45-res</Name>
+<Applications>gfclient_45.exe;</Applications>
+<Action type="Proxy">187</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 45-res</Name>
+<Applications>metin2client_45.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">187</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 45-res</Name>
+<Applications>metin2client_45.exe;</Applications>
+<Action type="Proxy">187</Action>
+</Rule>
+<Rule enabled="true">
+<Name>46-res</Name>
+<Applications>gfclient_46.exe;</Applications>
+<Action type="Proxy">188</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 46-res</Name>
+<Applications>metin2client_46.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">188</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 46-res</Name>
+<Applications>metin2client_46.exe;</Applications>
+<Action type="Proxy">188</Action>
+</Rule>
+<Rule enabled="true">
+<Name>47-res</Name>
+<Applications>gfclient_47.exe;</Applications>
+<Action type="Proxy">189</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 47-res</Name>
+<Applications>metin2client_47.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">189</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 47-res</Name>
+<Applications>metin2client_47.exe;</Applications>
+<Action type="Proxy">189</Action>
+</Rule>
+<Rule enabled="true">
+<Name>48-res</Name>
+<Applications>gfclient_48.exe;</Applications>
+<Action type="Proxy">190</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 48-res</Name>
+<Applications>metin2client_48.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">190</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 48-res</Name>
+<Applications>metin2client_48.exe;</Applications>
+<Action type="Proxy">190</Action>
+</Rule>
+<Rule enabled="true">
+<Name>49-res</Name>
+<Applications>gfclient_49.exe;</Applications>
+<Action type="Proxy">191</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 49-res</Name>
+<Applications>metin2client_49.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">191</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 49-res</Name>
+<Applications>metin2client_49.exe;</Applications>
+<Action type="Proxy">191</Action>
+</Rule>
+<Rule enabled="true">
+<Name>50-res</Name>
+<Applications>gfclient_50.exe;</Applications>
+<Action type="Proxy">192</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 50-res</Name>
+<Applications>metin2client_50.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">192</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 50-res</Name>
+<Applications>metin2client_50.exe;</Applications>
+<Action type="Proxy">192</Action>
+</Rule>
+<Rule enabled="true">
+<Name>51-res</Name>
+<Applications>gfclient_51.exe;</Applications>
+<Action type="Proxy">193</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 51-res</Name>
+<Applications>metin2client_51.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">193</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 51-res</Name>
+<Applications>metin2client_51.exe;</Applications>
+<Action type="Proxy">193</Action>
+</Rule>
+<Rule enabled="true">
+<Name>52-res</Name>
+<Applications>gfclient_52.exe;</Applications>
+<Action type="Proxy">194</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 52-res</Name>
+<Applications>metin2client_52.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">194</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 52-res</Name>
+<Applications>metin2client_52.exe;</Applications>
+<Action type="Proxy">194</Action>
+</Rule>
+<Rule enabled="true">
+<Name>53-res</Name>
+<Applications>gfclient_53.exe;</Applications>
+<Action type="Proxy">195</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 53-res</Name>
+<Applications>metin2client_53.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">195</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 53-res</Name>
+<Applications>metin2client_53.exe;</Applications>
+<Action type="Proxy">195</Action>
+</Rule>
+<Rule enabled="true">
+<Name>54-res</Name>
+<Applications>gfclient_54.exe;</Applications>
+<Action type="Proxy">196</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 54-res</Name>
+<Applications>metin2client_54.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">196</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 54-res</Name>
+<Applications>metin2client_54.exe;</Applications>
+<Action type="Proxy">196</Action>
+</Rule>
+<Rule enabled="true">
+<Name>55-res</Name>
+<Applications>gfclient_55.exe;</Applications>
+<Action type="Proxy">197</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 55-res</Name>
+<Applications>metin2client_55.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">197</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 55-res</Name>
+<Applications>metin2client_55.exe;</Applications>
+<Action type="Proxy">197</Action>
+</Rule>
+<Rule enabled="true">
+<Name>56-res</Name>
+<Applications>gfclient_56.exe;</Applications>
+<Action type="Proxy">198</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 56-res</Name>
+<Applications>metin2client_56.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">198</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 56-res</Name>
+<Applications>metin2client_56.exe;</Applications>
+<Action type="Proxy">198</Action>
+</Rule>
+<Rule enabled="true">
+<Name>57-res</Name>
+<Applications>gfclient_57.exe;</Applications>
+<Action type="Proxy">199</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 57-res</Name>
+<Applications>metin2client_57.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">199</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 57-res</Name>
+<Applications>metin2client_57.exe;</Applications>
+<Action type="Proxy">199</Action>
+</Rule>
+<Rule enabled="true">
+<Name>58-res</Name>
+<Applications>gfclient_58.exe;</Applications>
+<Action type="Proxy">200</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 58-res</Name>
+<Applications>metin2client_58.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">200</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 58-res</Name>
+<Applications>metin2client_58.exe;</Applications>
+<Action type="Proxy">200</Action>
+</Rule>
+<Rule enabled="true">
+<Name>59-res</Name>
+<Applications>gfclient_59.exe;</Applications>
+<Action type="Proxy">201</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 59-res</Name>
+<Applications>metin2client_59.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">201</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 59-res</Name>
+<Applications>metin2client_59.exe;</Applications>
+<Action type="Proxy">201</Action>
+</Rule>
+<Rule enabled="true">
+<Name>60-res</Name>
+<Applications>gfclient_60.exe;</Applications>
+<Action type="Proxy">202</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of 60-res</Name>
+<Applications>metin2client_60.exe;</Applications>
+<Targets>mobileauth.gameforge.com;spark.gameforge.com;gameforge.com;challenge.gameforge.com;image-drop-challenge.gameforge.com;pixelzirkus.gameforge.com;dl.tnt.gameforge.com</Targets>
+<Action type="Proxy">202</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Copy of Copy of 60-res</Name>
+<Applications>metin2client_60.exe;</Applications>
+<Action type="Proxy">202</Action>
+</Rule>
+<Rule enabled="true">
+<Name>Default</Name>
+<Action type="Direct"/>
+</Rule>
+</RuleList>
+</ProxifierProfile>

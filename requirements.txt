@@ -1,0 +1,8 @@
+pip==21.3.1
+setuptools==60.2.0
+wheel==0.37.1
+tabulate==0.8.9
+coloredlogs==15.0
+termcolor==1.1.0
+beautifulsoup4==4.10.0
+lxml==4.6.3

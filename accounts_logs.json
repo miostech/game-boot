@@ -1,0 +1,15 @@
+{
+	"account_1": {
+		"email": "joao@teste.pt",
+		"password": "jao",
+        "account": "joao",
+        "server": 6,
+        "first_char": "mat31",
+        "first_run": "mat31",
+        "last_auth": "123",
+        "password_proxy": "novoPassword",
+        "logs": [],
+        "total_cor": 100
+    }
+}
+
