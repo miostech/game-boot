@@ -56,5 +56,4 @@ if __name__ == '__main__':
             #    read_ppx.read_file_ppx(item, user["password_proxy"])
             print("CHANGE SLOT " + str(item))
             read_logs_txt.read_logs(item)
-            time.sleep(2)
         time.sleep(10)
