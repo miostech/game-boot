@@ -48,6 +48,7 @@ if __name__ == '__main__':
     #read_ppx.read_file_ppx()  # Function for reading ppx files
 
     while True:
+        time.sleep(5)
         for item in range(1, 61):
             #verify_contains_error = update_registry.check_if_error("slot" + str(item))
             #if verify_contains_error == "1":
@@ -56,4 +57,3 @@ if __name__ == '__main__':
             #    read_ppx.read_file_ppx(item, user["password_proxy"])
             print("CHANGE SLOT " + str(item))
             read_logs_txt.read_logs(item)
-        break
