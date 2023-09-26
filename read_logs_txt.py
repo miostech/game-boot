@@ -70,7 +70,7 @@ def read_logs(idx):
 
         user_to_add = get_user_to_play.get_user_to_play()
 
-        if count_kicked > 1000:
+        if count_kicked > 10:
             print(colored("Need to change the account", "red"))
             print(colored(("Count of kicked: " + str(count_kicked)), "red"))
             read_ppx.change_proxy(idx, "")
