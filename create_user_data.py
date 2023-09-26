@@ -1,6 +1,13 @@
+import json
+
+
 def create_user(slot, email, password, account, first_char):
     user_data = "user_slot_data" + str(slot)
-    with open(user_data + ".cfg", "w") as w:
+    f = open("config.json")
+
+    fj = json.load(f)["base_dir_files_user_slot"]
+
+    with open(fj + user_data + ".cfg", "w") as w:
         w.write("mail=" + email + "\n")
         w.write("pass=" + password + "\n")
         w.write("account=" + account + "\n")

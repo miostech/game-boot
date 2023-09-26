@@ -1,0 +1,745 @@
+21-09-2023 00:53:49: ------------------
+21-09-2023 00:53:49: Client started!
+21-09-2023 00:54:35: Client Error!
+21-09-2023 01:31:18: ------------------
+21-09-2023 01:31:18: Client started!
+21-09-2023 01:32:38: DanielleJe going to get skills..
+21-09-2023 01:38:04: DanielleJe kicked!
+21-09-2023 02:25:35: DanielleJe going to talk with alchemist..
+21-09-2023 02:25:55: DanielleJe going to talk with alchemist..
+21-09-2023 02:26:17: DanielleJe going to talk with alchemist..
+21-09-2023 02:31:38: DanielleJe going to buy..
+21-09-2023 02:37:02: DanielleJe kicked!
+21-09-2023 02:38:22: DanielleJe going to talk with alchemist..
+21-09-2023 02:38:42: DanielleJe going to talk with alchemist..
+21-09-2023 02:39:03: DanielleJe going to talk with alchemist..
+21-09-2023 03:05:50: DanielleJe kicked!
+21-09-2023 03:19:04: DanielleJe going to talk with alchemist..
+21-09-2023 03:19:25: DanielleJe going to talk with alchemist..
+21-09-2023 03:19:46: DanielleJe going to talk with alchemist..
+21-09-2023 03:19:59: DanielleJe alchemist quest done! [Cor -> 5]
+21-09-2023 03:21:41: Jaimi82Flo going to get skills..
+21-09-2023 04:06:42: Jaimi82Flo kicked!
+21-09-2023 04:17:57: Jaimi82Flo kicked!
+21-09-2023 04:20:13: Jaimi82Flo going to talk with alchemist..
+21-09-2023 04:20:34: Jaimi82Flo going to talk with alchemist..
+21-09-2023 04:20:55: Jaimi82Flo going to talk with alchemist..
+21-09-2023 04:25:09: Jaimi82Flo going to buy..
+21-09-2023 04:36:56: Jaimi82Flo going to talk with alchemist..
+21-09-2023 04:37:17: Jaimi82Flo going to talk with alchemist..
+21-09-2023 04:37:38: Jaimi82Flo going to talk with alchemist..
+21-09-2023 04:49:28: Jaimi82Flo kicked!
+21-09-2023 05:17:43: Jaimi82Flo going to talk with alchemist..
+21-09-2023 05:18:03: Jaimi82Flo going to talk with alchemist..
+21-09-2023 05:18:25: Jaimi82Flo going to talk with alchemist..
+21-09-2023 05:18:37: Jaimi82Flo alchemist quest done! [Cor -> 5]
+21-09-2023 05:19:29: Louis38Ha kicked!
+21-09-2023 05:20:24: Louis38Ha going to get skills..
+21-09-2023 06:16:10: Louis38Ha going to talk with alchemist..
+21-09-2023 06:16:32: Louis38Ha going to talk with alchemist..
+21-09-2023 06:17:44: ------------------
+21-09-2023 06:17:44: Client started!
+21-09-2023 06:20:20: ------------------
+21-09-2023 06:20:20: Client started!
+21-09-2023 06:21:18: Louis38Ha going to talk with alchemist..
+21-09-2023 07:25:14: ------------------
+21-09-2023 07:25:14: Client started!
+21-09-2023 07:26:44: Louis38Ha kicked!
+21-09-2023 07:27:56: Louis38Ha kicked!
+21-09-2023 07:29:09: Louis38Ha going to buy..
+21-09-2023 13:43:55: ------------------
+21-09-2023 13:43:55: Client started!
+21-09-2023 13:47:36: Louis38Ha going to talk with alchemist..
+21-09-2023 13:47:56: Louis38Ha going to talk with alchemist..
+21-09-2023 13:48:16: Louis38Ha going to talk with alchemist..
+21-09-2023 13:52:15: Louis38Ha kicked!
+21-09-2023 14:15:38: Louis38Ha kicked!
+21-09-2023 14:28:04: Louis38Ha going to talk with alchemist..
+21-09-2023 14:28:25: Louis38Ha going to talk with alchemist..
+21-09-2023 14:28:46: Louis38Ha going to talk with alchemist..
+21-09-2023 14:28:58: Louis38Ha alchemist quest done! [Cor -> 5]
+21-09-2023 14:30:42: MasonHenni going to get skills..
+21-09-2023 14:31:11: MasonHenni kicked!
+21-09-2023 14:33:08: MasonHenni kicked!
+21-09-2023 14:55:22: MasonHenni kicked!
+21-09-2023 15:21:52: MasonHenni kicked!
+21-09-2023 15:23:02: MasonHenni going to talk with alchemist..
+21-09-2023 15:23:22: MasonHenni going to talk with alchemist..
+21-09-2023 15:23:44: MasonHenni going to talk with alchemist..
+21-09-2023 15:28:34: MasonHenni going to buy..
+21-09-2023 15:38:31: MasonHenni going to talk with alchemist..
+21-09-2023 15:38:52: MasonHenni going to talk with alchemist..
+21-09-2023 15:39:13: MasonHenni going to talk with alchemist..
+21-09-2023 16:01:18: MasonHenni kicked!
+21-09-2023 16:11:12: MasonHenni going to talk with alchemist..
+21-09-2023 16:11:33: MasonHenni going to talk with alchemist..
+21-09-2023 16:11:54: MasonHenni going to talk with alchemist..
+21-09-2023 16:12:06: MasonHenni alchemist quest done! [Cor -> 5]
+21-09-2023 16:13:49: Eliza97Phi going to get skills..
+21-09-2023 16:34:11: Eliza97Phi kicked!
+21-09-2023 16:34:20: Eliza97Phi kicked!
+21-09-2023 16:34:29: Eliza97Phi kicked!
+21-09-2023 16:45:29: Eliza97Phi kicked!
+21-09-2023 16:47:48: Eliza97Phi kicked!
+21-09-2023 16:52:11: Eliza97Phi kicked!
+21-09-2023 16:52:52: Eliza97Phi kicked!
+21-09-2023 16:58:24: Eliza97Phi going to talk with alchemist..
+21-09-2023 16:58:44: Eliza97Phi going to talk with alchemist..
+21-09-2023 16:59:05: Eliza97Phi going to talk with alchemist..
+21-09-2023 17:05:09: Eliza97Phi going to buy..
+21-09-2023 17:12:11: Eliza97Phi going to talk with alchemist..
+21-09-2023 17:12:32: Eliza97Phi going to talk with alchemist..
+21-09-2023 17:12:53: Eliza97Phi going to talk with alchemist..
+21-09-2023 17:57:16: Eliza97Phi going to talk with alchemist..
+21-09-2023 18:29:56: ------------------
+21-09-2023 18:29:56: Client started!
+21-09-2023 18:30:50: Eliza97Phi going to talk with alchemist..
+21-09-2023 18:31:11: Eliza97Phi going to talk with alchemist..
+21-09-2023 18:31:23: Eliza97Phi alchemist quest done! [Cor -> 5]
+21-09-2023 18:31:54: DanielleJe going to talk with alchemist..
+21-09-2023 18:31:57: DanielleJe alchemist quest done! [Cor -> 5]
+21-09-2023 18:32:29: Jaimi82Flo going to talk with alchemist..
+21-09-2023 18:32:33: Jaimi82Flo alchemist quest done! [Cor -> 5]
+21-09-2023 18:33:05: Louis38Ha going to talk with alchemist..
+21-09-2023 18:33:08: Louis38Ha alchemist quest done! [Cor -> 5]
+21-09-2023 18:33:41: MasonHenni going to talk with alchemist..
+21-09-2023 18:33:45: MasonHenni alchemist quest done! [Cor -> 5]
+21-09-2023 18:33:45: Alchemist quest done! Exitting..
+22-09-2023 01:25:05: ------------------
+22-09-2023 01:25:05: Client started!
+22-09-2023 01:25:54: MasonHenni going to talk with alchemist..
+22-09-2023 01:42:16: MasonHenni kicked!
+22-09-2023 01:51:00: MasonHenni kicked!
+22-09-2023 02:13:32: MasonHenni kicked!
+22-09-2023 02:13:54: MasonHenni kicked!
+22-09-2023 02:25:53: MasonHenni kicked!
+22-09-2023 02:31:54: ------------------
+22-09-2023 02:31:54: Client started!
+22-09-2023 02:46:54: MasonHenni kicked!
+22-09-2023 02:58:09: MasonHenni going to talk with alchemist..
+22-09-2023 02:58:32: MasonHenni going to talk with alchemist..
+22-09-2023 02:58:53: MasonHenni going to talk with alchemist..
+22-09-2023 02:59:14: MasonHenni going to talk with alchemist..
+22-09-2023 02:59:26: MasonHenni alchemist quest done! [Cor -> 10]
+22-09-2023 03:00:01: Eliza97Phi going to talk with alchemist..
+22-09-2023 03:05:10: Eliza97Phi kicked!
+22-09-2023 03:20:35: Eliza97Phi kicked!
+22-09-2023 03:22:07: Eliza97Phi kicked!
+22-09-2023 03:26:14: Eliza97Phi kicked!
+22-09-2023 03:30:15: Eliza97Phi kicked!
+22-09-2023 03:49:14: Eliza97Phi kicked!
+22-09-2023 03:54:20: Eliza97Phi kicked!
+22-09-2023 04:04:20: Eliza97Phi kicked!
+22-09-2023 04:06:41: Eliza97Phi kicked!
+22-09-2023 04:17:05: Eliza97Phi kicked!
+22-09-2023 04:21:22: Eliza97Phi kicked!
+22-09-2023 04:23:02: Eliza97Phi going to talk with alchemist..
+22-09-2023 04:23:25: Eliza97Phi going to talk with alchemist..
+22-09-2023 04:23:46: Eliza97Phi going to talk with alchemist..
+22-09-2023 04:24:07: Eliza97Phi going to talk with alchemist..
+22-09-2023 04:24:20: Eliza97Phi alchemist quest done! [Cor -> 10]
+22-09-2023 04:24:44: DanielleJe going to talk with alchemist..
+22-09-2023 04:38:40: DanielleJe kicked!
+22-09-2023 04:49:50: DanielleJe kicked!
+22-09-2023 05:03:41: DanielleJe kicked!
+22-09-2023 05:10:53: DanielleJe kicked!
+22-09-2023 05:16:16: DanielleJe going to talk with alchemist..
+22-09-2023 05:16:39: DanielleJe going to talk with alchemist..
+22-09-2023 05:17:00: DanielleJe going to talk with alchemist..
+22-09-2023 05:17:21: DanielleJe going to talk with alchemist..
+22-09-2023 05:17:34: DanielleJe alchemist quest done! [Cor -> 10]
+22-09-2023 05:17:59: Jaimi82Flo going to talk with alchemist..
+22-09-2023 05:33:54: Jaimi82Flo kicked!
+22-09-2023 05:52:33: Jaimi82Flo kicked!
+22-09-2023 05:55:31: Jaimi82Flo kicked!
+22-09-2023 05:59:33: Jaimi82Flo kicked!
+22-09-2023 06:03:57: Jaimi82Flo kicked!
+22-09-2023 06:04:52: Jaimi82Flo kicked!
+22-09-2023 06:05:39: Jaimi82Flo kicked!
+22-09-2023 06:14:57: Jaimi82Flo kicked!
+22-09-2023 06:20:27: Jaimi82Flo kicked!
+22-09-2023 06:26:04: Jaimi82Flo going to talk with alchemist..
+22-09-2023 06:26:27: Jaimi82Flo going to talk with alchemist..
+22-09-2023 06:26:49: Jaimi82Flo going to talk with alchemist..
+22-09-2023 06:27:10: Jaimi82Flo going to talk with alchemist..
+22-09-2023 06:27:22: Jaimi82Flo alchemist quest done! [Cor -> 10]
+22-09-2023 06:27:52: Louis38Ha going to talk with alchemist..
+22-09-2023 07:04:45: Louis38Ha kicked!
+22-09-2023 07:08:52: ------------------
+22-09-2023 07:08:52: Client started!
+22-09-2023 07:12:13: Louis38Ha kicked!
+22-09-2023 07:13:29: Louis38Ha kicked!
+22-09-2023 07:15:40: Louis38Ha kicked!
+22-09-2023 07:18:47: Louis38Ha kicked!
+22-09-2023 07:21:35: Louis38Ha kicked!
+22-09-2023 07:34:38: Louis38Ha kicked!
+22-09-2023 07:37:51: Louis38Ha going to talk with alchemist..
+22-09-2023 07:38:15: Louis38Ha going to talk with alchemist..
+22-09-2023 07:38:36: Louis38Ha going to talk with alchemist..
+22-09-2023 07:38:51: Louis38Ha kicked!
+22-09-2023 07:39:06: Louis38Ha going to talk with alchemist..
+22-09-2023 07:39:26: Louis38Ha going to talk with alchemist..
+22-09-2023 07:39:39: Louis38Ha alchemist quest done! [Cor -> 10]
+22-09-2023 07:40:12: MasonHenni going to talk with alchemist..
+22-09-2023 07:40:16: MasonHenni alchemist quest done! [Cor -> 10]
+22-09-2023 07:40:48: Eliza97Phi going to talk with alchemist..
+22-09-2023 07:40:52: Eliza97Phi alchemist quest done! [Cor -> 10]
+22-09-2023 07:41:24: DanielleJe going to talk with alchemist..
+22-09-2023 07:41:27: DanielleJe alchemist quest done! [Cor -> 10]
+22-09-2023 07:42:00: Jaimi82Flo going to talk with alchemist..
+22-09-2023 07:42:04: Jaimi82Flo alchemist quest done! [Cor -> 10]
+22-09-2023 07:42:04: Alchemist quest done! Exitting..
+23-09-2023 01:25:49: ------------------
+23-09-2023 01:25:49: Client started!
+23-09-2023 01:26:41: Jaimi82Flo going to talk with alchemist..
+23-09-2023 02:16:36: ------------------
+23-09-2023 02:16:36: Client started!
+23-09-2023 02:22:12: Jaimi82Flo kicked!
+23-09-2023 02:24:43: Jaimi82Flo kicked!
+23-09-2023 02:27:45: Jaimi82Flo kicked!
+23-09-2023 02:28:25: Jaimi82Flo kicked!
+23-09-2023 02:29:49: Jaimi82Flo kicked!
+23-09-2023 02:35:42: Jaimi82Flo kicked!
+23-09-2023 02:36:16: Jaimi82Flo kicked!
+23-09-2023 02:41:25: Jaimi82Flo kicked!
+23-09-2023 02:44:21: Jaimi82Flo kicked!
+23-09-2023 02:44:31: Jaimi82Flo kicked!
+23-09-2023 02:44:37: Jaimi82Flo kicked!
+23-09-2023 02:44:59: Jaimi82Flo kicked!
+23-09-2023 02:49:12: Jaimi82Flo kicked!
+23-09-2023 02:49:30: Jaimi82Flo kicked!
+23-09-2023 02:50:21: Jaimi82Flo kicked!
+23-09-2023 02:59:43: Jaimi82Flo kicked!
+23-09-2023 03:00:00: Jaimi82Flo kicked!
+23-09-2023 03:04:56: Jaimi82Flo kicked!
+23-09-2023 03:06:34: Jaimi82Flo kicked!
+23-09-2023 03:06:55: Jaimi82Flo kicked!
+23-09-2023 03:07:01: Jaimi82Flo kicked!
+23-09-2023 03:09:54: Jaimi82Flo kicked!
+23-09-2023 03:11:22: Jaimi82Flo kicked!
+23-09-2023 03:12:10: Jaimi82Flo kicked!
+23-09-2023 03:16:31: Jaimi82Flo kicked!
+23-09-2023 03:22:15: Jaimi82Flo kicked!
+23-09-2023 03:24:03: Jaimi82Flo kicked!
+23-09-2023 03:27:11: Jaimi82Flo kicked!
+23-09-2023 03:28:40: Jaimi82Flo kicked!
+23-09-2023 03:42:02: Jaimi82Flo kicked!
+23-09-2023 03:47:54: Jaimi82Flo kicked!
+23-09-2023 03:50:51: Jaimi82Flo kicked!
+23-09-2023 03:51:42: Jaimi82Flo kicked!
+23-09-2023 03:57:17: Jaimi82Flo going to talk with alchemist..
+23-09-2023 03:57:41: Jaimi82Flo going to talk with alchemist..
+23-09-2023 03:58:04: Jaimi82Flo going to talk with alchemist..
+23-09-2023 03:58:25: Jaimi82Flo going to talk with alchemist..
+23-09-2023 03:58:38: Jaimi82Flo alchemist quest done! [Cor -> 15]
+23-09-2023 03:59:04: Louis38Ha going to talk with alchemist..
+23-09-2023 04:00:20: Louis38Ha kicked!
+23-09-2023 04:04:44: Louis38Ha kicked!
+23-09-2023 04:05:49: Louis38Ha kicked!
+23-09-2023 04:09:20: Louis38Ha kicked!
+23-09-2023 04:16:40: Louis38Ha kicked!
+23-09-2023 04:18:07: Louis38Ha kicked!
+23-09-2023 04:18:46: Louis38Ha kicked!
+23-09-2023 04:19:25: Louis38Ha kicked!
+23-09-2023 04:20:11: Louis38Ha kicked!
+23-09-2023 04:20:19: Louis38Ha kicked!
+23-09-2023 04:21:55: Louis38Ha kicked!
+23-09-2023 04:26:14: Louis38Ha kicked!
+23-09-2023 04:26:38: Louis38Ha kicked!
+23-09-2023 04:30:13: Louis38Ha kicked!
+23-09-2023 04:40:31: Louis38Ha kicked!
+23-09-2023 04:40:52: Louis38Ha kicked!
+23-09-2023 04:42:30: Louis38Ha kicked!
+23-09-2023 04:46:53: Louis38Ha kicked!
+23-09-2023 04:47:08: Louis38Ha kicked!
+23-09-2023 04:49:23: Louis38Ha kicked!
+23-09-2023 04:52:30: Louis38Ha kicked!
+23-09-2023 04:54:20: Louis38Ha kicked!
+23-09-2023 04:54:55: Louis38Ha kicked!
+23-09-2023 04:55:46: Louis38Ha kicked!
+23-09-2023 04:56:35: Louis38Ha kicked!
+23-09-2023 04:56:55: Louis38Ha kicked!
+23-09-2023 05:00:41: Louis38Ha kicked!
+23-09-2023 05:07:40: Louis38Ha kicked!
+23-09-2023 05:08:07: Louis38Ha kicked!
+23-09-2023 05:12:51: Louis38Ha kicked!
+23-09-2023 05:17:28: Louis38Ha kicked!
+23-09-2023 05:17:50: Louis38Ha kicked!
+23-09-2023 05:18:36: Louis38Ha kicked!
+23-09-2023 05:22:10: Louis38Ha kicked!
+23-09-2023 05:30:35: Louis38Ha kicked!
+23-09-2023 05:31:21: Louis38Ha going to talk with alchemist..
+23-09-2023 05:31:45: Louis38Ha going to talk with alchemist..
+23-09-2023 05:32:06: Louis38Ha going to talk with alchemist..
+23-09-2023 05:32:27: Louis38Ha going to talk with alchemist..
+23-09-2023 05:32:39: Louis38Ha alchemist quest done! [Cor -> 15]
+23-09-2023 05:33:12: MasonHenni going to talk with alchemist..
+23-09-2023 05:36:32: MasonHenni kicked!
+23-09-2023 05:40:50: MasonHenni kicked!
+23-09-2023 05:41:25: MasonHenni kicked!
+23-09-2023 05:42:20: MasonHenni kicked!
+23-09-2023 05:49:41: MasonHenni kicked!
+23-09-2023 05:51:12: MasonHenni kicked!
+23-09-2023 05:54:59: MasonHenni kicked!
+23-09-2023 05:55:09: MasonHenni kicked!
+23-09-2023 05:56:03: MasonHenni kicked!
+23-09-2023 05:56:25: MasonHenni kicked!
+23-09-2023 05:56:42: MasonHenni kicked!
+23-09-2023 05:58:15: MasonHenni kicked!
+23-09-2023 05:59:04: MasonHenni kicked!
+23-09-2023 06:00:32: MasonHenni kicked!
+23-09-2023 06:01:42: MasonHenni kicked!
+23-09-2023 06:02:17: MasonHenni kicked!
+23-09-2023 06:03:35: MasonHenni kicked!
+23-09-2023 06:04:04: MasonHenni kicked!
+23-09-2023 06:04:29: MasonHenni kicked!
+23-09-2023 06:05:14: MasonHenni kicked!
+23-09-2023 06:05:38: MasonHenni kicked!
+23-09-2023 06:05:47: MasonHenni kicked!
+23-09-2023 06:11:24: MasonHenni kicked!
+23-09-2023 06:11:46: MasonHenni kicked!
+23-09-2023 06:13:43: MasonHenni kicked!
+23-09-2023 06:23:04: MasonHenni kicked!
+23-09-2023 06:26:18: MasonHenni kicked!
+23-09-2023 06:27:30: MasonHenni kicked!
+23-09-2023 06:30:43: MasonHenni kicked!
+23-09-2023 06:39:12: MasonHenni kicked!
+23-09-2023 06:39:59: MasonHenni kicked!
+23-09-2023 06:44:30: MasonHenni kicked!
+23-09-2023 06:46:44: MasonHenni kicked!
+23-09-2023 06:47:31: MasonHenni kicked!
+23-09-2023 06:54:36: MasonHenni kicked!
+23-09-2023 06:56:28: MasonHenni kicked!
+23-09-2023 06:57:38: MasonHenni kicked!
+23-09-2023 06:58:31: MasonHenni kicked!
+23-09-2023 07:06:39: MasonHenni kicked!
+23-09-2023 07:09:10: ------------------
+23-09-2023 07:09:10: Client started!
+23-09-2023 07:15:08: MasonHenni kicked!
+23-09-2023 07:15:28: MasonHenni kicked!
+23-09-2023 07:16:57: MasonHenni kicked!
+23-09-2023 07:18:25: MasonHenni kicked!
+23-09-2023 07:19:03: MasonHenni kicked!
+23-09-2023 07:24:37: MasonHenni kicked!
+23-09-2023 07:26:00: MasonHenni kicked!
+23-09-2023 07:27:21: MasonHenni kicked!
+23-09-2023 07:27:53: MasonHenni kicked!
+23-09-2023 07:28:57: MasonHenni going to talk with alchemist..
+23-09-2023 07:29:21: MasonHenni going to talk with alchemist..
+23-09-2023 07:29:42: MasonHenni going to talk with alchemist..
+23-09-2023 07:30:03: MasonHenni going to talk with alchemist..
+23-09-2023 07:30:15: MasonHenni alchemist quest done! [Cor -> 15]
+23-09-2023 07:30:45: Eliza97Phi going to talk with alchemist..
+23-09-2023 07:34:05: Eliza97Phi kicked!
+23-09-2023 07:35:05: Eliza97Phi kicked!
+23-09-2023 07:35:41: Eliza97Phi kicked!
+23-09-2023 07:38:30: Eliza97Phi kicked!
+23-09-2023 07:39:02: Eliza97Phi kicked!
+23-09-2023 07:41:48: Eliza97Phi kicked!
+23-09-2023 07:42:36: Eliza97Phi kicked!
+23-09-2023 07:46:14: Eliza97Phi kicked!
+23-09-2023 07:49:01: Eliza97Phi kicked!
+23-09-2023 07:50:26: Eliza97Phi kicked!
+23-09-2023 07:51:17: Eliza97Phi kicked!
+23-09-2023 07:58:05: Eliza97Phi kicked!
+23-09-2023 08:00:52: Eliza97Phi kicked!
+23-09-2023 08:01:17: Eliza97Phi kicked!
+23-09-2023 08:01:49: Eliza97Phi kicked!
+23-09-2023 08:02:09: Eliza97Phi kicked!
+23-09-2023 08:10:14: Eliza97Phi kicked!
+23-09-2023 08:14:24: Eliza97Phi kicked!
+23-09-2023 08:14:47: Eliza97Phi kicked!
+23-09-2023 08:15:07: Eliza97Phi kicked!
+23-09-2023 08:22:26: Eliza97Phi kicked!
+23-09-2023 08:23:54: Eliza97Phi kicked!
+23-09-2023 08:34:55: Eliza97Phi kicked!
+23-09-2023 08:38:24: Eliza97Phi kicked!
+23-09-2023 08:41:06: Eliza97Phi kicked!
+23-09-2023 08:43:25: Eliza97Phi kicked!
+23-09-2023 08:46:01: Eliza97Phi kicked!
+23-09-2023 08:49:46: Eliza97Phi kicked!
+23-09-2023 08:51:34: Eliza97Phi kicked!
+23-09-2023 08:57:34: Eliza97Phi kicked!
+23-09-2023 09:02:14: Eliza97Phi kicked!
+23-09-2023 09:02:36: Eliza97Phi going to talk with alchemist..
+23-09-2023 09:03:00: Eliza97Phi going to talk with alchemist..
+23-09-2023 09:03:22: Eliza97Phi going to talk with alchemist..
+23-09-2023 09:03:43: Eliza97Phi going to talk with alchemist..
+23-09-2023 09:03:56: Eliza97Phi alchemist quest done! [Cor -> 15]
+23-09-2023 09:04:29: DanielleJe going to talk with alchemist..
+23-09-2023 09:08:24: DanielleJe kicked!
+23-09-2023 09:14:35: DanielleJe kicked!
+23-09-2023 09:17:53: DanielleJe kicked!
+23-09-2023 09:18:16: DanielleJe kicked!
+23-09-2023 09:23:25: DanielleJe kicked!
+23-09-2023 09:27:23: DanielleJe kicked!
+23-09-2023 09:28:00: DanielleJe kicked!
+23-09-2023 09:30:33: DanielleJe kicked!
+23-09-2023 09:32:25: DanielleJe kicked!
+23-09-2023 09:56:53: DanielleJe kicked!
+23-09-2023 09:57:21: DanielleJe kicked!
+23-09-2023 10:01:03: DanielleJe kicked!
+23-09-2023 10:06:39: DanielleJe kicked!
+23-09-2023 10:07:23: DanielleJe kicked!
+23-09-2023 10:12:44: DanielleJe kicked!
+23-09-2023 10:35:59: DanielleJe kicked!
+23-09-2023 10:37:15: DanielleJe kicked!
+23-09-2023 10:39:07: DanielleJe kicked!
+23-09-2023 10:45:57: DanielleJe kicked!
+23-09-2023 10:46:31: DanielleJe kicked!
+23-09-2023 10:47:06: DanielleJe kicked!
+23-09-2023 10:47:23: DanielleJe kicked!
+23-09-2023 10:47:43: DanielleJe kicked!
+23-09-2023 10:49:09: DanielleJe kicked!
+23-09-2023 10:50:17: DanielleJe kicked!
+23-09-2023 10:52:36: DanielleJe kicked!
+23-09-2023 10:57:27: DanielleJe going to talk with alchemist..
+23-09-2023 10:57:51: DanielleJe going to talk with alchemist..
+23-09-2023 10:58:13: DanielleJe going to talk with alchemist..
+23-09-2023 10:58:35: DanielleJe going to talk with alchemist..
+23-09-2023 10:58:47: DanielleJe alchemist quest done! [Cor -> 15]
+23-09-2023 10:59:13: Jaimi82Flo going to talk with alchemist..
+23-09-2023 10:59:16: Jaimi82Flo alchemist quest done! [Cor -> 15]
+23-09-2023 10:59:48: Louis38Ha going to talk with alchemist..
+23-09-2023 10:59:51: Louis38Ha alchemist quest done! [Cor -> 15]
+23-09-2023 10:59:51: Louis38Ha alchemist quest done! [Cor -> 15]
+23-09-2023 10:59:51: Alchemist quest done! Exitting..
+24-09-2023 01:11:04: ------------------
+24-09-2023 01:11:04: Client started!
+24-09-2023 01:12:00: Louis38Ha going to talk with alchemist..
+24-09-2023 01:16:00: Louis38Ha kicked!
+24-09-2023 01:16:08: Louis38Ha kicked!
+24-09-2023 01:16:23: Louis38Ha kicked!
+24-09-2023 01:20:44: Louis38Ha kicked!
+24-09-2023 01:27:36: Louis38Ha kicked!
+24-09-2023 01:32:45: Louis38Ha kicked!
+24-09-2023 01:40:15: Louis38Ha kicked!
+24-09-2023 01:47:27: Louis38Ha kicked!
+24-09-2023 01:55:07: Louis38Ha kicked!
+24-09-2023 01:59:04: Louis38Ha kicked!
+24-09-2023 01:59:53: Louis38Ha kicked!
+24-09-2023 02:14:44: Louis38Ha kicked!
+24-09-2023 02:27:18: Louis38Ha kicked!
+24-09-2023 02:27:44: Louis38Ha kicked!
+24-09-2023 02:41:29: Louis38Ha kicked!
+24-09-2023 02:46:04: Louis38Ha going to talk with alchemist..
+24-09-2023 02:46:27: Louis38Ha going to talk with alchemist..
+24-09-2023 02:46:49: Louis38Ha going to talk with alchemist..
+24-09-2023 02:47:10: Louis38Ha going to talk with alchemist..
+24-09-2023 02:47:22: Louis38Ha alchemist quest done! [Cor -> 20]
+24-09-2023 02:47:54: MasonHenni going to talk with alchemist..
+24-09-2023 03:00:08: MasonHenni kicked!
+24-09-2023 03:07:16: MasonHenni kicked!
+24-09-2023 03:12:38: MasonHenni kicked!
+24-09-2023 03:16:28: MasonHenni kicked!
+24-09-2023 03:23:12: MasonHenni kicked!
+24-09-2023 03:27:39: MasonHenni kicked!
+24-09-2023 03:33:47: MasonHenni kicked!
+24-09-2023 03:40:45: ------------------
+24-09-2023 03:40:45: Client started!
+24-09-2023 03:58:03: MasonHenni kicked!
+24-09-2023 04:05:38: MasonHenni kicked!
+24-09-2023 04:16:19: MasonHenni kicked!
+24-09-2023 04:17:27: MasonHenni kicked!
+24-09-2023 04:20:20: MasonHenni kicked!
+24-09-2023 04:30:01: MasonHenni kicked!
+24-09-2023 04:30:44: MasonHenni kicked!
+24-09-2023 04:38:13: MasonHenni kicked!
+24-09-2023 04:42:05: MasonHenni kicked!
+24-09-2023 04:48:56: MasonHenni going to talk with alchemist..
+24-09-2023 04:49:21: MasonHenni going to talk with alchemist..
+24-09-2023 04:49:44: MasonHenni going to talk with alchemist..
+24-09-2023 04:50:05: MasonHenni going to talk with alchemist..
+24-09-2023 04:50:17: MasonHenni alchemist quest done! [Cor -> 20]
+24-09-2023 04:50:50: Eliza97Phi going to talk with alchemist..
+24-09-2023 04:53:33: Eliza97Phi kicked!
+24-09-2023 04:58:52: Eliza97Phi kicked!
+24-09-2023 05:03:33: Eliza97Phi kicked!
+24-09-2023 05:04:51: Eliza97Phi kicked!
+24-09-2023 05:16:42: Eliza97Phi kicked!
+24-09-2023 05:17:46: Eliza97Phi kicked!
+24-09-2023 05:31:33: Eliza97Phi kicked!
+24-09-2023 05:34:57: Eliza97Phi kicked!
+24-09-2023 05:39:13: Eliza97Phi kicked!
+24-09-2023 05:39:20: Eliza97Phi kicked!
+24-09-2023 05:39:36: Eliza97Phi kicked!
+24-09-2023 05:48:47: Eliza97Phi kicked!
+24-09-2023 05:57:22: Eliza97Phi kicked!
+24-09-2023 05:59:21: Eliza97Phi kicked!
+24-09-2023 06:02:40: Eliza97Phi kicked!
+24-09-2023 06:10:47: Eliza97Phi kicked!
+24-09-2023 06:45:12: Eliza97Phi kicked!
+24-09-2023 06:48:25: Eliza97Phi going to talk with alchemist..
+24-09-2023 06:48:50: Eliza97Phi going to talk with alchemist..
+24-09-2023 06:49:11: Eliza97Phi going to talk with alchemist..
+24-09-2023 06:49:33: Eliza97Phi going to talk with alchemist..
+24-09-2023 06:49:45: Eliza97Phi alchemist quest done! [Cor -> 20]
+24-09-2023 06:50:11: DanielleJe going to talk with alchemist..
+24-09-2023 06:52:11: DanielleJe kicked!
+24-09-2023 06:57:13: DanielleJe kicked!
+24-09-2023 07:04:12: DanielleJe kicked!
+24-09-2023 07:07:21: DanielleJe kicked!
+24-09-2023 07:07:30: DanielleJe kicked!
+24-09-2023 07:07:39: DanielleJe kicked!
+24-09-2023 07:14:12: DanielleJe kicked!
+24-09-2023 07:20:10: DanielleJe kicked!
+24-09-2023 07:24:04: DanielleJe kicked!
+24-09-2023 07:30:36: DanielleJe kicked!
+24-09-2023 07:33:18: DanielleJe kicked!
+24-09-2023 07:38:17: DanielleJe kicked!
+24-09-2023 08:07:42: DanielleJe kicked!
+24-09-2023 08:15:44: DanielleJe going to talk with alchemist..
+24-09-2023 08:16:07: DanielleJe going to talk with alchemist..
+24-09-2023 08:16:28: DanielleJe going to talk with alchemist..
+24-09-2023 08:16:49: DanielleJe going to talk with alchemist..
+24-09-2023 08:17:01: DanielleJe alchemist quest done! [Cor -> 20]
+24-09-2023 08:17:29: Jaimi82Flo going to talk with alchemist..
+24-09-2023 08:24:57: Jaimi82Flo kicked!
+24-09-2023 08:32:00: Jaimi82Flo kicked!
+24-09-2023 08:34:00: Jaimi82Flo kicked!
+24-09-2023 08:46:29: Jaimi82Flo kicked!
+24-09-2023 08:50:02: Jaimi82Flo kicked!
+24-09-2023 08:52:58: Jaimi82Flo kicked!
+24-09-2023 08:54:11: Jaimi82Flo kicked!
+24-09-2023 08:57:45: Jaimi82Flo kicked!
+24-09-2023 08:59:09: Jaimi82Flo kicked!
+24-09-2023 09:05:13: Jaimi82Flo kicked!
+24-09-2023 09:09:13: Jaimi82Flo kicked!
+25-09-2023 01:16:33: ------------------
+25-09-2023 01:16:33: Client started!
+25-09-2023 01:17:52: Jaimi82Flo kicked!
+25-09-2023 01:20:35: Jaimi82Flo kicked!
+25-09-2023 01:23:28: Jaimi82Flo kicked!
+25-09-2023 01:23:54: Jaimi82Flo kicked!
+25-09-2023 01:37:01: Jaimi82Flo kicked!
+25-09-2023 01:54:28: ------------------
+25-09-2023 01:54:28: Client started!
+25-09-2023 02:01:07: Jaimi82Flo kicked!
+25-09-2023 02:04:26: Jaimi82Flo going to talk with alchemist..
+25-09-2023 02:04:49: Jaimi82Flo going to talk with alchemist..
+25-09-2023 02:05:10: Jaimi82Flo going to talk with alchemist..
+25-09-2023 02:05:31: Jaimi82Flo going to talk with alchemist..
+25-09-2023 02:16:25: Jaimi82Flo kicked!
+25-09-2023 02:24:19: Jaimi82Flo kicked!
+25-09-2023 02:28:27: Jaimi82Flo kicked!
+25-09-2023 02:30:33: Jaimi82Flo kicked!
+25-09-2023 02:30:55: Jaimi82Flo kicked!
+25-09-2023 02:32:14: Jaimi82Flo kicked!
+25-09-2023 02:50:17: Jaimi82Flo kicked!
+25-09-2023 02:56:48: Jaimi82Flo kicked!
+25-09-2023 03:00:26: Jaimi82Flo kicked!
+25-09-2023 03:14:49: Jaimi82Flo kicked!
+25-09-2023 03:15:30: Jaimi82Flo kicked!
+25-09-2023 03:20:53: Jaimi82Flo kicked!
+25-09-2023 03:25:42: Jaimi82Flo kicked!
+25-09-2023 03:34:15: Jaimi82Flo going to talk with alchemist..
+25-09-2023 03:34:38: Jaimi82Flo going to talk with alchemist..
+25-09-2023 03:34:59: Jaimi82Flo going to talk with alchemist..
+25-09-2023 03:35:20: Jaimi82Flo going to talk with alchemist..
+25-09-2023 03:35:33: Jaimi82Flo alchemist quest done! [Cor -> 25]
+25-09-2023 03:36:01: Louis38Ha going to talk with alchemist..
+25-09-2023 03:38:15: ------------------
+25-09-2023 03:38:15: Client started!
+25-09-2023 03:47:52: Louis38Ha kicked!
+25-09-2023 03:59:54: Louis38Ha kicked!
+25-09-2023 04:00:33: Louis38Ha kicked!
+25-09-2023 04:11:41: Louis38Ha kicked!
+25-09-2023 04:12:03: Louis38Ha kicked!
+25-09-2023 04:14:41: Louis38Ha kicked!
+25-09-2023 04:16:08: Louis38Ha kicked!
+25-09-2023 04:17:44: Louis38Ha kicked!
+25-09-2023 04:18:11: Louis38Ha kicked!
+25-09-2023 04:21:07: Louis38Ha kicked!
+25-09-2023 04:26:40: Louis38Ha kicked!
+25-09-2023 04:32:38: Louis38Ha kicked!
+25-09-2023 04:36:00: Louis38Ha kicked!
+25-09-2023 04:36:06: Louis38Ha kicked!
+25-09-2023 04:36:12: Louis38Ha kicked!
+25-09-2023 04:37:39: Louis38Ha kicked!
+25-09-2023 04:37:59: Louis38Ha kicked!
+25-09-2023 04:39:14: Louis38Ha kicked!
+25-09-2023 04:40:36: Louis38Ha kicked!
+25-09-2023 04:46:12: Louis38Ha kicked!
+25-09-2023 04:47:33: Louis38Ha kicked!
+25-09-2023 04:48:10: Louis38Ha kicked!
+25-09-2023 04:55:33: Louis38Ha going to talk with alchemist..
+25-09-2023 04:55:57: Louis38Ha going to talk with alchemist..
+25-09-2023 04:56:19: Louis38Ha going to talk with alchemist..
+25-09-2023 04:56:41: Louis38Ha going to talk with alchemist..
+25-09-2023 04:56:53: Louis38Ha alchemist quest done! [Cor -> 25]
+25-09-2023 04:57:19: MasonHenni going to talk with alchemist..
+25-09-2023 04:58:34: MasonHenni kicked!
+25-09-2023 05:04:39: MasonHenni kicked!
+25-09-2023 05:08:15: MasonHenni kicked!
+25-09-2023 05:11:15: MasonHenni kicked!
+25-09-2023 05:27:27: MasonHenni kicked!
+25-09-2023 05:32:12: MasonHenni kicked!
+25-09-2023 05:35:40: MasonHenni kicked!
+25-09-2023 05:37:37: MasonHenni kicked!
+25-09-2023 05:46:15: MasonHenni kicked!
+25-09-2023 05:47:49: MasonHenni kicked!
+25-09-2023 05:52:00: MasonHenni kicked!
+25-09-2023 06:08:51: MasonHenni kicked!
+25-09-2023 06:10:29: MasonHenni kicked!
+25-09-2023 06:22:10: MasonHenni kicked!
+25-09-2023 06:30:29: MasonHenni kicked!
+25-09-2023 06:30:38: MasonHenni kicked!
+25-09-2023 06:34:47: MasonHenni kicked!
+25-09-2023 06:43:39: MasonHenni kicked!
+25-09-2023 06:44:14: MasonHenni kicked!
+25-09-2023 06:44:43: MasonHenni kicked!
+25-09-2023 06:45:33: MasonHenni kicked!
+25-09-2023 06:46:06: MasonHenni going to talk with alchemist..
+25-09-2023 06:46:29: MasonHenni going to talk with alchemist..
+25-09-2023 06:46:50: MasonHenni going to talk with alchemist..
+25-09-2023 06:47:11: MasonHenni going to talk with alchemist..
+25-09-2023 06:47:23: MasonHenni alchemist quest done! [Cor -> 25]
+25-09-2023 06:47:52: Eliza97Phi going to talk with alchemist..
+25-09-2023 07:07:55: Eliza97Phi kicked!
+25-09-2023 07:14:20: Eliza97Phi kicked!
+25-09-2023 07:15:46: Eliza97Phi kicked!
+25-09-2023 07:19:45: Eliza97Phi kicked!
+25-09-2023 07:30:44: Eliza97Phi kicked!
+25-09-2023 07:34:20: Eliza97Phi kicked!
+25-09-2023 07:35:09: Eliza97Phi kicked!
+25-09-2023 07:36:05: Eliza97Phi kicked!
+25-09-2023 07:37:05: Eliza97Phi kicked!
+25-09-2023 07:49:39: Eliza97Phi kicked!
+25-09-2023 07:51:02: Eliza97Phi kicked!
+25-09-2023 07:57:24: Eliza97Phi kicked!
+25-09-2023 07:58:04: Eliza97Phi going to talk with alchemist..
+25-09-2023 07:58:27: Eliza97Phi going to talk with alchemist..
+25-09-2023 07:58:48: Eliza97Phi going to talk with alchemist..
+25-09-2023 07:59:10: Eliza97Phi going to talk with alchemist..
+25-09-2023 07:59:22: Eliza97Phi alchemist quest done! [Cor -> 25]
+25-09-2023 07:59:55: DanielleJe going to talk with alchemist..
+25-09-2023 08:10:47: DanielleJe kicked!
+25-09-2023 08:22:21: DanielleJe kicked!
+25-09-2023 08:22:38: DanielleJe kicked!
+25-09-2023 08:26:35: DanielleJe kicked!
+25-09-2023 08:29:32: DanielleJe kicked!
+25-09-2023 08:33:08: DanielleJe kicked!
+25-09-2023 15:42:53: ------------------
+25-09-2023 15:42:53: Client started!
+25-09-2023 18:24:24: ------------------
+25-09-2023 18:24:24: Client started!
+25-09-2023 18:25:35: Jaimi82Flo going to talk with alchemist..
+25-09-2023 18:25:38: Jaimi82Flo alchemist quest done! [Cor -> 25]
+25-09-2023 18:26:13: Louis38Ha going to talk with alchemist..
+25-09-2023 18:26:16: Louis38Ha alchemist quest done! [Cor -> 25]
+25-09-2023 18:26:50: MasonHenni going to talk with alchemist..
+25-09-2023 18:26:53: MasonHenni alchemist quest done! [Cor -> 25]
+25-09-2023 18:27:26: Eliza97Phi going to talk with alchemist..
+25-09-2023 18:27:29: Eliza97Phi alchemist quest done! [Cor -> 25]
+25-09-2023 18:30:13: DanielleJe kicked!
+25-09-2023 18:31:33: DanielleJe kicked!
+25-09-2023 18:33:12: DanielleJe kicked!
+25-09-2023 18:36:55: DanielleJe kicked!
+25-09-2023 18:43:26: DanielleJe kicked!
+25-09-2023 18:45:53: DanielleJe kicked!
+25-09-2023 18:49:07: ------------------
+25-09-2023 18:49:07: Client started!
+25-09-2023 18:51:33: DanielleJe kicked!
+25-09-2023 19:01:02: DanielleJe kicked!
+25-09-2023 19:01:37: DanielleJe kicked!
+25-09-2023 19:07:00: DanielleJe going to talk with alchemist..
+25-09-2023 19:07:24: DanielleJe going to talk with alchemist..
+25-09-2023 19:07:45: DanielleJe going to talk with alchemist..
+25-09-2023 19:08:06: DanielleJe going to talk with alchemist..
+25-09-2023 19:08:19: DanielleJe alchemist quest done! [Cor -> 25]
+25-09-2023 19:08:23: DanielleJe kicked!
+25-09-2023 19:12:16: ------------------
+25-09-2023 19:12:16: Client started!
+25-09-2023 19:13:07: DanielleJe going to talk with alchemist..
+25-09-2023 19:13:10: DanielleJe alchemist quest done! [Cor -> 25]
+25-09-2023 19:13:45: Jaimi82Flo going to talk with alchemist..
+25-09-2023 19:13:48: Jaimi82Flo alchemist quest done! [Cor -> 25]
+25-09-2023 19:14:24: Louis38Ha going to talk with alchemist..
+25-09-2023 19:14:27: Louis38Ha alchemist quest done! [Cor -> 25]
+25-09-2023 19:14:57: MasonHenni going to talk with alchemist..
+25-09-2023 19:15:01: MasonHenni alchemist quest done! [Cor -> 25]
+25-09-2023 19:15:33: Eliza97Phi going to talk with alchemist..
+25-09-2023 19:15:37: Eliza97Phi alchemist quest done! [Cor -> 25]
+25-09-2023 19:15:37: Eliza97Phi alchemist quest done! [Cor -> 25]
+25-09-2023 19:15:37: Alchemist quest done! Exitting..
+26-09-2023 01:40:11: ------------------
+26-09-2023 01:40:11: Client started!
+26-09-2023 01:41:05: DanielleJe going to talk with alchemist..
+26-09-2023 01:41:19: DanielleJe kicked!
+26-09-2023 01:41:26: DanielleJe kicked!
+26-09-2023 02:04:31: DanielleJe kicked!
+26-09-2023 02:17:39: DanielleJe kicked!
+26-09-2023 02:19:27: DanielleJe kicked!
+26-09-2023 02:22:06: DanielleJe kicked!
+26-09-2023 02:27:46: DanielleJe kicked!
+26-09-2023 02:28:43: DanielleJe kicked!
+26-09-2023 02:42:55: DanielleJe kicked!
+26-09-2023 02:52:31: DanielleJe going to talk with alchemist..
+26-09-2023 02:52:54: DanielleJe going to talk with alchemist..
+26-09-2023 02:53:15: DanielleJe going to talk with alchemist..
+26-09-2023 02:53:36: DanielleJe going to talk with alchemist..
+26-09-2023 02:53:48: DanielleJe alchemist quest done! [Cor -> 30]
+26-09-2023 02:54:23: Jaimi82Flo going to talk with alchemist..
+26-09-2023 03:01:24: Jaimi82Flo kicked!
+26-09-2023 03:04:03: Jaimi82Flo kicked!
+26-09-2023 03:09:27: Jaimi82Flo kicked!
+26-09-2023 03:11:06: Jaimi82Flo kicked!
+26-09-2023 03:25:46: Jaimi82Flo kicked!
+26-09-2023 03:27:35: Jaimi82Flo kicked!
+26-09-2023 03:30:05: Jaimi82Flo kicked!
+26-09-2023 03:39:44: Jaimi82Flo kicked!
+26-09-2023 03:47:30: Jaimi82Flo kicked!
+26-09-2023 03:49:56: ------------------
+26-09-2023 03:49:56: Client started!
+26-09-2023 04:05:12: Jaimi82Flo going to talk with alchemist..
+26-09-2023 04:05:35: Jaimi82Flo going to talk with alchemist..
+26-09-2023 04:05:56: Jaimi82Flo going to talk with alchemist..
+26-09-2023 04:06:17: Jaimi82Flo going to talk with alchemist..
+26-09-2023 04:06:30: Jaimi82Flo alchemist quest done! [Cor -> 30]
+26-09-2023 04:07:03: Louis38Ha going to talk with alchemist..
+26-09-2023 04:14:03: Louis38Ha kicked!
+26-09-2023 04:18:02: Louis38Ha kicked!
+26-09-2023 04:18:31: Louis38Ha kicked!
+26-09-2023 04:39:42: Louis38Ha kicked!
+26-09-2023 05:04:39: Louis38Ha kicked!
+26-09-2023 05:27:48: Louis38Ha going to talk with alchemist..
+26-09-2023 05:28:13: Louis38Ha going to talk with alchemist..
+26-09-2023 05:28:34: Louis38Ha going to talk with alchemist..
+26-09-2023 05:28:55: Louis38Ha going to talk with alchemist..
+26-09-2023 05:29:07: Louis38Ha alchemist quest done! [Cor -> 30]
+26-09-2023 05:29:35: MasonHenni going to talk with alchemist..
+26-09-2023 05:44:25: MasonHenni kicked!
+26-09-2023 05:59:09: MasonHenni kicked!
+26-09-2023 06:01:18: MasonHenni kicked!
+26-09-2023 06:12:14: MasonHenni kicked!
+26-09-2023 06:30:53: MasonHenni kicked!
+26-09-2023 06:32:30: MasonHenni kicked!
+26-09-2023 06:45:33: MasonHenni going to talk with alchemist..
+26-09-2023 06:45:57: MasonHenni going to talk with alchemist..
+26-09-2023 06:46:18: MasonHenni going to talk with alchemist..
+26-09-2023 06:46:39: MasonHenni going to talk with alchemist..
+26-09-2023 06:46:52: MasonHenni alchemist quest done! [Cor -> 30]
+26-09-2023 06:47:16: Eliza97Phi going to talk with alchemist..
+26-09-2023 06:51:29: Eliza97Phi kicked!
+26-09-2023 07:02:21: Eliza97Phi kicked!
+26-09-2023 07:08:53: Eliza97Phi kicked!
+26-09-2023 07:13:59: Eliza97Phi kicked!
+26-09-2023 07:18:50: Eliza97Phi kicked!
+26-09-2023 07:24:17: Eliza97Phi kicked!
+26-09-2023 07:25:20: Eliza97Phi kicked!
+26-09-2023 07:26:28: Eliza97Phi kicked!
+26-09-2023 07:31:25: Eliza97Phi kicked!
+26-09-2023 07:34:42: Eliza97Phi kicked!
+26-09-2023 07:42:08: Eliza97Phi kicked!
+26-09-2023 07:47:11: Eliza97Phi kicked!
+26-09-2023 07:48:54: Eliza97Phi kicked!
+26-09-2023 07:55:29: Eliza97Phi kicked!
+26-09-2023 07:59:11: Eliza97Phi going to talk with alchemist..
+26-09-2023 07:59:34: Eliza97Phi going to talk with alchemist..
+26-09-2023 07:59:55: Eliza97Phi going to talk with alchemist..
+26-09-2023 08:00:16: Eliza97Phi going to talk with alchemist..
+26-09-2023 08:00:28: Eliza97Phi alchemist quest done! [Cor -> 30]
+26-09-2023 08:00:58: DanielleJe going to talk with alchemist..
+26-09-2023 08:01:02: DanielleJe alchemist quest done! [Cor -> 30]
+26-09-2023 08:01:02: DanielleJe alchemist quest done! [Cor -> 30]
+26-09-2023 08:01:02: Alchemist quest done! Exitting..

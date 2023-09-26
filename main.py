@@ -3,11 +3,14 @@
 # configuration and interacts with other modules for reading configuration files and logs.
 
 import argparse  # Import the argparse module for command-line argument parsing
+import time
 import winreg
 
+import get_user_to_play
 import read_file_cfg  # Import a module for reading configuration files
 import read_logs_txt  # Import a module for reading log files
 import read_ppx  # Import a module for reading ppx files
+import update_registry
 
 
 def run_game():
@@ -40,6 +43,16 @@ if __name__ == '__main__':
     print(args.run)
 
     # Call functions from other modules to read configuration files and logs
-    read_file_cfg.read_file_cfg()  # Function for reading configuration files
-    read_logs_txt.read_logs()  # Function for reading log files
-    read_ppx.read_file_ppx()  # Function for reading ppx files
+    #read_file_cfg.read_file_cfg()  # Function for reading configuration files
+    #read_logs_txt.read_logs()  # Function for reading log files
+    #read_ppx.read_file_ppx()  # Function for reading ppx files
+
+    while True:
+        for item in range(1, 30):
+            #verify_contains_error = update_registry.check_if_error("slot" + str(item))
+            #if verify_contains_error == "1":
+            #    print("Change a proxy and play")
+            #    user = get_user_to_play.get_user_to_play()
+            #    read_ppx.read_file_ppx(item, user["password_proxy"])
+            read_logs_txt.read_logs(item)
+        time.sleep(10)

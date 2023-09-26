@@ -24,7 +24,8 @@
 <Options>48</Options>
 <Authentication enabled="true">
 <Username>mr14562DNDG</Username>
-<Password>MIeAceWWVc_country-fr_session-5spgcvok_lifetime-24h_streaming-1_skipispstatic-1</Password>
+<Password>MLpizVmzTI_country-ro_session-brq89vu0
+</Password>
 </Authentication>
 </Proxy>
 <Proxy id="101" type="HTTPS">
@@ -44,7 +45,7 @@
 <Options>48</Options>
 <Authentication enabled="true">
 <Username>mr14562DNDG</Username>
-<Password>MLpizVmzTI_country-it_session-xvh4hc6i</Password>
+<Password>Teste</Password>
 </Authentication>
 </Proxy>
 <Proxy id="103" type="HTTPS">
@@ -54,7 +55,7 @@
 <Options>48</Options>
 <Authentication enabled="true">
 <Username>mr14562DNDG</Username>
-<Password>MLpizVmzTI_country-gb_session-h3dmp475</Password>
+<Password>Teste</Password>
 </Authentication>
 </Proxy>
 <Proxy id="104" type="HTTPS">
@@ -64,7 +65,7 @@
 <Options>48</Options>
 <Authentication enabled="true">
 <Username>mr14562DNDG</Username>
-<Password>MLpizVmzTI_country-gb_session-06n1rhm6</Password>
+<Password>Teste</Password>
 </Authentication>
 </Proxy>
 <Proxy id="105" type="HTTPS">
