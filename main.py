@@ -48,7 +48,7 @@ if __name__ == '__main__':
     #read_ppx.read_file_ppx()  # Function for reading ppx files
 
     while True:
-        for item in range(1, 30):
+        for item in range(1, 60):
             #verify_contains_error = update_registry.check_if_error("slot" + str(item))
             #if verify_contains_error == "1":
             #    print("Change a proxy and play")
