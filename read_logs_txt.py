@@ -68,7 +68,7 @@ def read_logs(idx):
             if "Client Error" in item or "Client Error!" in item:
                 count_error += 1
 
-        user_to_add = get_user_to_play.get_user_to_play()
+        #user_to_add = get_user_to_play.get_user_to_play()
 
         if count_kicked > 10:
             print(colored("Need to change the account", "red"))
