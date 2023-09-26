@@ -44,7 +44,7 @@ def read_logs(idx):
 
     dir_logs = json.load(f)["base_dir_users_logs"]
 
-    with open(dir_logs + "logs" + str(idx) + ".txt", "r") as r:
+    with open(dir_logs + "slot_log_" + str(idx) + ".txt", "r") as r:
         lines = r.readlines()
         date_time_now = datetime.datetime.now()
         list_lasted_10_minutes = []
