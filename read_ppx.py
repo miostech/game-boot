@@ -43,7 +43,7 @@ def read_file_ppx(index_to_change=1, new_password="Test123"):
 def change_proxy(index_to_change=1, new_password="Test123"):
     f = open("config.json")
 
-    config_data = json.load(f)["base_dir_files_user_slot"]
+    config_data = json.load(f)["base_dir_proxy"]
 
     with open(config_data + "1.ppx", "r") as r:
         data = r.read()
