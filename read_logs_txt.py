@@ -1,4 +1,5 @@
 import datetime
+import winreg
 
 import create_user_data
 import diff_time
@@ -74,6 +75,9 @@ def read_logs(idx):
             print(colored("Need to change the account", "red"))
             print(colored(("Count of kicked: " + str(count_kicked)), "red"))
             read_ppx.change_proxy(idx, "")
+            with open(dir_logs + "slot_log_" + str(idx) + ".txt", "w") as w:
+                w.write("")
+                w.close()
 
             # TODO final system
             #if user_to_add is not None:
@@ -87,6 +91,9 @@ def read_logs(idx):
         elif count_error > 0:
             print("Change proxy")
             read_ppx.change_proxy(idx, "")
+            with open(dir_logs + "slot_log_" + str(idx) + ".txt", "w") as w:
+                w.write("")
+                w.close()
 
         else:
             print("Account is okay")
