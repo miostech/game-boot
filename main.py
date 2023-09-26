@@ -48,7 +48,11 @@ if __name__ == '__main__':
     #read_ppx.read_file_ppx()  # Function for reading ppx files
 
     while True:
+        print("awaiting")
+        print("")
         time.sleep(5)
+        print("execute")
+        print("")
         for item in range(1, 61):
             #verify_contains_error = update_registry.check_if_error("slot" + str(item))
             #if verify_contains_error == "1":
