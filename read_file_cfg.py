@@ -70,3 +70,43 @@ def read_file_cfg():
     data_list_new = [config_data]
     table = tabulate.tabulate(data_list_new, headers="keys", tablefmt="grid")
     print(colored(table, "green"))
+
+
+def return_user_slot(idx):
+    f = open("config.json", "r")
+    fj_config = json.load(f)
+    base_dir = fj_config["base_dir_files_user_slot"]
+    dir_file = os.path.join(base_dir, "user_slot_data" + str(idx) + ".cfg")
+    user_data = {}
+
+    with open(dir_file, "r") as user:
+        for line in user:
+            if '=' in line:
+                key, value = line.strip().split('=')
+                user_data[key.strip()] = value.strip()
+    print(user_data["mail"])
+    return user_data["mail"]
+
+
+def update_user_slot(idx, user):
+    f = open("config.json", "r")
+    fj_config = json.load(f)
+    base_dir = fj_config["base_dir_files_user_slot"]
+    dir_file = os.path.join(base_dir, "user_slot_data" + str(idx) + ".cfg")
+
+    config_data = {}
+
+    with open(dir_file, 'r') as file:
+        for line in file:
+            if '=' in line:
+                key, value = line.strip().split('=')
+                config_data[key.strip()] = value.strip()
+
+    config_data["mail"] = user["email"]
+    config_data["pass"] = user["password"]
+    config_data["account"] = user["account"]
+    with open(dir_file, 'w') as file:
+        print("Updating 'mail' setting...")
+        print("New 'mail' setting:", config_data["mail"])
+        for key, value in config_data.items():
+            file.write('%s=%s\n' % (key, value))

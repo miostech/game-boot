@@ -1,5 +1,7 @@
 {
-  "base_dir_files_user_slot": "C:\\SageBot\\userdata\\",
-  "base_dir_users_logs": "C:\\SageBot\\userdata\\logs\\",
-  "base_dir_proxy": "C:\\Users\\gulias\\AppData\\Roaming\\Proxifier\\Profiles\\"
+  "base_dir_files_user_slot": "C:\\Users\\oas-d\\Mios\\game-boot\\",
+  "base_dir_users_logs": "C:\\Users\\oas-d\\Mios\\game-boot\\",
+  "base_dir_proxy": "C:\\Users\\oas-d\\Mios\\game-boot\\",
+  "base_dir_start_process": "C:\\Users\\oas-d\\Mios\\game-boot\\",
+
 }

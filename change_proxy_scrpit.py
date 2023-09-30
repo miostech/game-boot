@@ -3,13 +3,9 @@
 # configuration and interacts with other modules for reading configuration files and logs.
 
 import argparse  # Import the argparse module for command-line argument parsing
-import datetime
 import time
 import winreg
 
-import accounts_manager
-import add_start_process
-import add_time_start
 import get_user_to_play
 import read_file_cfg  # Import a module for reading configuration files
 import read_logs_txt  # Import a module for reading log files
@@ -45,20 +41,22 @@ if __name__ == '__main__':
 
     # Print the value of the "--run" argument
     print(args.run)
-    init_day = False
+
+    # Call functions from other modules to read configuration files and logs
+    #read_file_cfg.read_file_cfg()  # Function for reading configuration files
+    #read_logs_txt.read_logs()  # Function for reading log files
+    #read_ppx.read_file_ppx()  # Function for reading ppx files
 
     while True:
-        dt = datetime.datetime.now()
-        for item in range(1, 31):
-            if dt.hour < 21:
-                print("execute slot " + str(item))
-                read_logs_txt.read_logs(item)
-            else:
-                print("Stop at 1am")
-            if init_day is True and dt.hour == 1:
-                init_day = True
-                accounts_manager.init_day()
-                add_start_process.start_init_process()
-            if dt.hour == 2:
-                init_day = False
-            time.sleep(60)
+        print("awaiting")
+        time.sleep(5)
+        print("execute")
+        print("")
+        for item in range(1, 61):
+            #verify_contains_error = update_registry.check_if_error("slot" + str(item))
+            #if verify_contains_error == "1":
+            #    print("Change a proxy and play")
+            #    user = get_user_to_play.get_user_to_play()
+            #    read_ppx.read_file_ppx(item, user["password_proxy"])
+            print("CHANGE SLOT " + str(item))
+            read_logs_txt.read_logs(item)

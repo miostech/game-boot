@@ -1,17 +1,1 @@
-[
-	 {
-        "id": 1,
-        "used": 0,
-		"email": "joao@teste1.pt",
-		"password": "jao1",
-        "account": "joao1",
-        "server": 6,
-        "first_char": "mat312",
-        "first_run": "mat31",
-        "last_auth": "123",
-        "password_proxy": "novoPassword1",
-        "logs": [],
-        "total_cor": 100
-    }
-]
-
+[{"id": 1, "used": 3, "email": "rodrigoflasc@gmail.fr", "password": "jao1", "account": "joao1", "server": 6, "first_char": "mat312", "first_run": "mat31", "last_auth": "123", "password_proxy": "novoPassword1", "logs": [], "total_cor": 0}, {"id": 2, "used": 3, "email": "test@gmail.fr", "password": "jao1", "account": "joao1", "server": 6, "first_char": "mat312", "first_run": "mat31", "last_auth": "123", "password_proxy": "novoPassword12", "logs": [], "total_cor": 0}]
