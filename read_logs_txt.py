@@ -159,7 +159,7 @@ def read_logs_2(idx):
             if dif < 30:  # 19407 seconds is approximately 5 hours and 23 minutes
                 list_lasted_30_minutes.append(line)
             if dif < 10:
-                list_lasted_10_minutes(line)
+                list_lasted_10_minutes.append(line)
 
         count_kicked = 0
         count_error = 0
