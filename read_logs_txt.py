@@ -187,6 +187,9 @@ def read_logs_2(idx):
             print(colored("Need to change the account", "red"))
             print(colored(("Count of kicked: " + str(count_kicked)), "red"))
             read_ppx.change_proxy(idx, "")
+            with open(dir_logs + "slot_log_" + str(idx) + ".txt", "w") as w:
+                w.write("")
+                w.close()
 
         elif count_error > 0:
             print("Change proxy")
@@ -199,6 +202,9 @@ def read_logs_2(idx):
         elif count_client_start > 2:
             print("Change proxy cause client start error")
             read_ppx.change_proxy(idx, "")
+            with open(dir_logs + "slot_log_" + str(idx) + ".txt", "w") as w:
+                w.write("")
+                w.close()
 
         else:
             print("Account is okay")
