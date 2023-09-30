@@ -54,7 +54,7 @@ def read_logs(idx):
         for line in reversed(lines):
             date_end = line[0:19]
             dif = diff_time.diff_time_logs(date_end, date_time_now)
-            if dif < 119407:  # 19407 seconds is approximately 5 hours and 23 minutes
+            if dif < 10:  # 19407 seconds is approximately 5 hours and 23 minutes
                 list_lasted_10_minutes.append(line)
 
         count_kicked = 0
