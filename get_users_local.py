@@ -31,7 +31,6 @@ def get_users():
                 "logs": [],
                 "total_cor": 0
             })
-            break
     data_save = json.dumps(config_users, indent=4)
 
     with open("accounts_logs.json", "w") as r:
