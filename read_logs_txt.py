@@ -218,7 +218,7 @@ def read_logs_2(idx):
             with open(dir_logs + "slot_log_" + str(idx) + ".txt", "w") as w:
                 w.write("")
                 w.close()
-            add_start_process.start_process(idx)
+            #add_start_process.start_process(idx)
 
         elif count_client_start > 1:
             print("Change proxy cause client start error")
