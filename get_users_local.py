@@ -3,6 +3,7 @@ import read_ppx
 import update_registry
 import json
 
+
 def get_users():
     config_users = []
     id = 1

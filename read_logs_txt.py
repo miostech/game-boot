@@ -69,6 +69,7 @@ def read_logs(idx):
         count_error = 0
         count_client_start = 0
         count_client_ban = 0
+        count_done = 0
 
         # Count occurrences of "kicked!" or "kicked" in recent log entries
         for item in list_lasted_30_minutes:
@@ -84,6 +85,10 @@ def read_logs(idx):
         for item in lines:
             if "Account Banned!" in item or "Account Banned" in item:
                 count_client_ban += 1
+
+        for item in lines:
+            if "Alchemist quest done! Exitting.." in item or "Alchemist quest done Exitting.." in item:
+                count_done += 1
 
         #user_to_add = get_user_to_play.get_user_to_play()
 
@@ -121,6 +126,22 @@ def read_logs(idx):
 
             add_start_process.start_process(idx)
 
+        elif count_done > 0:
+            email_user_to_done = read_file_cfg.return_user_slot(idx)
+
+            accounts_manager.account_done(email_user_to_done)
+
+            user = get_user_to_play.get_user_to_play()
+
+            read_file_cfg.update_user_slot(idx, user)
+
+            read_ppx.change_proxy(idx, user["password_proxy"])
+
+            update_registry.update_values("slot" + str(idx), user["last_auth"], user["first_char"])
+
+            accounts_manager.account_run(user["email"])
+
+            add_start_process.start_process(idx)
         else:
             print("Account is okay")
 

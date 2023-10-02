@@ -14,6 +14,19 @@ def account_ban(email):
         json.dump(fj, file)
 
 
+def account_done(email):
+    f = open("accounts_logs.json")
+    fj = json.load(f)
+
+    for item in fj:
+        if item["email"] == email:
+            item["used"] = 2
+            break
+
+    with open("accounts_logs.json", "w") as file:
+        json.dump(fj, file)
+
+
 def account_run(email):
     f = open("accounts_logs.json")
     fj = json.load(f)
