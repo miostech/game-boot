@@ -20,3 +20,12 @@ def check_if_error(slot):
     print("here")
     print(response[0])
     return response[0]
+
+
+def return_last_auth_and_first_char(slot):
+    directory = os.path.join(r'SOFTWARE\WOW6432Node\SageUserData\slot_run_states', slot)
+    key = OpenKey(HKEY_LOCAL_MACHINE, directory, 0,
+                  KEY_READ)
+    last = winreg.QueryValueEx(key, 'last_auth')
+    first = winreg.QueryValueEx(key, 'first_char')
+    return last, first

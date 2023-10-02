@@ -110,3 +110,19 @@ def update_user_slot(idx, user):
         print("New 'mail' setting:", config_data["mail"])
         for key, value in config_data.items():
             file.write('%s=%s\n' % (key, value))
+
+
+def return_all_info_user_slot(idx):
+    f = open("config.json", "r")
+    fj_config = json.load(f)
+    base_dir = fj_config["base_dir_files_user_slot"]
+    dir_file = os.path.join(base_dir, "user_slot_data" + str(idx) + ".cfg")
+    user_data = {}
+
+    with open(dir_file, "r") as user:
+        for line in user:
+            if '=' in line:
+                key, value = line.strip().split('=')
+                user_data[key.strip()] = value.strip()
+    print(user_data["mail"])
+    return user_data
